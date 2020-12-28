@@ -1,0 +1,1436 @@
+Instructions for case number 1:
+1: Number 1 cannot be at (0,0); reason: discovered number 8 in its place; possiblities left: [8].
+2: Number 2 cannot be at (0,0); reason: discovered number 8 in its place; possiblities left: [8].
+3: Number 3 cannot be at (0,0); reason: discovered number 8 in its place; possiblities left: [8].
+4: Number 4 cannot be at (0,0); reason: discovered number 8 in its place; possiblities left: [8].
+5: Number 5 cannot be at (0,0); reason: discovered number 8 in its place; possiblities left: [8].
+6: Number 6 cannot be at (0,0); reason: discovered number 8 in its place; possiblities left: [8].
+7: Number 7 cannot be at (0,0); reason: discovered number 8 in its place; possiblities left: [8].
+8: Number 9 cannot be at (0,0); reason: discovered number 8 in its place; possiblities left: [8].
+9: Number 8 cannot be at (0,1); reason: discovered the number 8 at the same row at position (0,0); possiblities left: [1].
+10: Number 8 cannot be at (0,2); reason: discovered the number 8 at the same row at position (0,0); possiblities left: [2].
+11: Number 8 cannot be at (0,3); reason: discovered the number 8 at the same row at position (0,0); possiblities left: [7].
+12: Number 8 cannot be at (0,4); reason: discovered the number 8 at the same row at position (0,0); possiblities left: [5].
+13: Number 8 cannot be at (0,5); reason: discovered the number 8 at the same row at position (0,0); possiblities left: [3].
+14: Number 8 cannot be at (0,6); reason: discovered the number 8 at the same row at position (0,0); possiblities left: [6].
+15: Number 8 cannot be at (0,7); reason: discovered the number 8 at the same row at position (0,0); possiblities left: [4].
+16: Number 8 cannot be at (0,8); reason: discovered the number 8 at the same row at position (0,0); possiblities left: [9].
+17: Number 8 cannot be at (1,0); reason: discovered the number 8 at the same column at position (0,0); possiblities left: [9].
+18: Number 8 cannot be at (2,0); reason: discovered the number 8 at the same column at position (0,0); possiblities left: [6].
+19: Number 8 cannot be at (3,0); reason: discovered the number 8 at the same column at position (0,0); possiblities left: [1].
+20: Number 8 cannot be at (4,0); reason: discovered the number 8 at the same column at position (0,0); possiblities left: [3].
+21: Number 8 cannot be at (5,0); reason: discovered the number 8 at the same column at position (0,0); possiblities left: [2].
+22: Number 8 cannot be at (6,0); reason: discovered the number 8 at the same column at position (0,0); possiblities left: [5].
+23: Number 8 cannot be at (7,0); reason: discovered the number 8 at the same column at position (0,0); possiblities left: [4].
+24: Number 8 cannot be at (8,0); reason: discovered the number 8 at the same column at position (0,0); possiblities left: [7].
+25: Number 8 cannot be at (1,1); reason: discovered the number 8 at the same quadrant at position (0,0); possiblities left: [4].
+26: Number 8 cannot be at (1,2); reason: discovered the number 8 at the same quadrant at position (0,0); possiblities left: [3].
+27: Number 8 cannot be at (2,1); reason: discovered the number 8 at the same quadrant at position (0,0); possiblities left: [7].
+28: Number 8 cannot be at (2,2); reason: discovered the number 8 at the same quadrant at position (0,0); possiblities left: [5].
+29: Number 1 cannot be at (1,2); reason: discovered number 3 in its place; possiblities left: [3].
+30: Number 2 cannot be at (1,2); reason: discovered number 3 in its place; possiblities left: [3].
+31: Number 4 cannot be at (1,2); reason: discovered number 3 in its place; possiblities left: [3].
+32: Number 5 cannot be at (1,2); reason: discovered number 3 in its place; possiblities left: [3].
+33: Number 6 cannot be at (1,2); reason: discovered number 3 in its place; possiblities left: [3].
+34: Number 7 cannot be at (1,2); reason: discovered number 3 in its place; possiblities left: [3].
+35: Number 9 cannot be at (1,2); reason: discovered number 3 in its place; possiblities left: [3].
+36: Number 3 cannot be at (1,0); reason: discovered the number 3 at the same row at position (1,2); possiblities left: [9].
+37: Number 3 cannot be at (1,1); reason: discovered the number 3 at the same row at position (1,2); possiblities left: [4].
+38: Number 3 cannot be at (1,3); reason: discovered the number 3 at the same row at position (1,2); possiblities left: [6].
+39: Number 3 cannot be at (1,4); reason: discovered the number 3 at the same row at position (1,2); possiblities left: [8].
+40: Number 3 cannot be at (1,5); reason: discovered the number 3 at the same row at position (1,2); possiblities left: [2].
+41: Number 3 cannot be at (1,6); reason: discovered the number 3 at the same row at position (1,2); possiblities left: [1].
+42: Number 3 cannot be at (1,7); reason: discovered the number 3 at the same row at position (1,2); possiblities left: [7].
+43: Number 3 cannot be at (1,8); reason: discovered the number 3 at the same row at position (1,2); possiblities left: [5].
+44: Number 3 cannot be at (0,2); reason: discovered the number 3 at the same column at position (1,2); possiblities left: [2].
+45: Number 3 cannot be at (2,2); reason: discovered the number 3 at the same column at position (1,2); possiblities left: [5].
+46: Number 3 cannot be at (3,2); reason: discovered the number 3 at the same column at position (1,2); possiblities left: [4].
+47: Number 3 cannot be at (4,2); reason: discovered the number 3 at the same column at position (1,2); possiblities left: [9].
+48: Number 3 cannot be at (5,2); reason: discovered the number 3 at the same column at position (1,2); possiblities left: [7].
+49: Number 3 cannot be at (6,2); reason: discovered the number 3 at the same column at position (1,2); possiblities left: [1].
+50: Number 3 cannot be at (7,2); reason: discovered the number 3 at the same column at position (1,2); possiblities left: [8].
+51: Number 3 cannot be at (8,2); reason: discovered the number 3 at the same column at position (1,2); possiblities left: [6].
+52: Number 3 cannot be at (0,1); reason: discovered the number 3 at the same quadrant at position (1,2); possiblities left: [1].
+53: Number 3 cannot be at (2,0); reason: discovered the number 3 at the same quadrant at position (1,2); possiblities left: [6].
+54: Number 3 cannot be at (2,1); reason: discovered the number 3 at the same quadrant at position (1,2); possiblities left: [7].
+55: Number 1 cannot be at (1,3); reason: discovered number 6 in its place; possiblities left: [6].
+56: Number 2 cannot be at (1,3); reason: discovered number 6 in its place; possiblities left: [6].
+57: Number 4 cannot be at (1,3); reason: discovered number 6 in its place; possiblities left: [6].
+58: Number 5 cannot be at (1,3); reason: discovered number 6 in its place; possiblities left: [6].
+59: Number 7 cannot be at (1,3); reason: discovered number 6 in its place; possiblities left: [6].
+60: Number 8 cannot be at (1,3); reason: discovered number 6 in its place; possiblities left: [6].
+61: Number 9 cannot be at (1,3); reason: discovered number 6 in its place; possiblities left: [6].
+62: Number 6 cannot be at (1,0); reason: discovered the number 6 at the same row at position (1,3); possiblities left: [9].
+63: Number 6 cannot be at (1,1); reason: discovered the number 6 at the same row at position (1,3); possiblities left: [4].
+64: Number 6 cannot be at (1,4); reason: discovered the number 6 at the same row at position (1,3); possiblities left: [8].
+65: Number 6 cannot be at (1,5); reason: discovered the number 6 at the same row at position (1,3); possiblities left: [2].
+66: Number 6 cannot be at (1,6); reason: discovered the number 6 at the same row at position (1,3); possiblities left: [1].
+67: Number 6 cannot be at (1,7); reason: discovered the number 6 at the same row at position (1,3); possiblities left: [7].
+68: Number 6 cannot be at (1,8); reason: discovered the number 6 at the same row at position (1,3); possiblities left: [5].
+69: Number 6 cannot be at (0,3); reason: discovered the number 6 at the same column at position (1,3); possiblities left: [7].
+70: Number 6 cannot be at (2,3); reason: discovered the number 6 at the same column at position (1,3); possiblities left: [4].
+71: Number 6 cannot be at (3,3); reason: discovered the number 6 at the same column at position (1,3); possiblities left: [2].
+72: Number 6 cannot be at (4,3); reason: discovered the number 6 at the same column at position (1,3); possiblities left: [8].
+73: Number 6 cannot be at (5,3); reason: discovered the number 6 at the same column at position (1,3); possiblities left: [1].
+74: Number 6 cannot be at (6,3); reason: discovered the number 6 at the same column at position (1,3); possiblities left: [9].
+75: Number 6 cannot be at (7,3); reason: discovered the number 6 at the same column at position (1,3); possiblities left: [5].
+76: Number 6 cannot be at (8,3); reason: discovered the number 6 at the same column at position (1,3); possiblities left: [3].
+77: Number 6 cannot be at (0,4); reason: discovered the number 6 at the same quadrant at position (1,3); possiblities left: [5].
+78: Number 6 cannot be at (0,5); reason: discovered the number 6 at the same quadrant at position (1,3); possiblities left: [3].
+79: Number 6 cannot be at (2,4); reason: discovered the number 6 at the same quadrant at position (1,3); possiblities left: [9].
+80: Number 6 cannot be at (2,5); reason: discovered the number 6 at the same quadrant at position (1,3); possiblities left: [1].
+81: Number 1 cannot be at (2,1); reason: discovered number 7 in its place; possiblities left: [7].
+82: Number 2 cannot be at (2,1); reason: discovered number 7 in its place; possiblities left: [7].
+83: Number 4 cannot be at (2,1); reason: discovered number 7 in its place; possiblities left: [7].
+84: Number 5 cannot be at (2,1); reason: discovered number 7 in its place; possiblities left: [7].
+85: Number 6 cannot be at (2,1); reason: discovered number 7 in its place; possiblities left: [7].
+86: Number 9 cannot be at (2,1); reason: discovered number 7 in its place; possiblities left: [7].
+87: Number 7 cannot be at (2,0); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [6].
+88: Number 7 cannot be at (2,2); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [5].
+89: Number 7 cannot be at (2,3); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [4].
+90: Number 7 cannot be at (2,4); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [9].
+91: Number 7 cannot be at (2,5); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [1].
+92: Number 7 cannot be at (2,6); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [2].
+93: Number 7 cannot be at (2,7); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [8].
+94: Number 7 cannot be at (2,8); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [3].
+95: Number 7 cannot be at (0,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [1].
+96: Number 7 cannot be at (1,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [4].
+97: Number 7 cannot be at (3,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [5].
+98: Number 7 cannot be at (4,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [6].
+99: Number 7 cannot be at (5,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [8].
+100: Number 7 cannot be at (6,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [2].
+101: Number 7 cannot be at (7,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [3].
+102: Number 7 cannot be at (8,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [9].
+103: Number 7 cannot be at (0,2); reason: discovered the number 7 at the same quadrant at position (2,1); possiblities left: [2].
+104: Number 7 cannot be at (1,0); reason: discovered the number 7 at the same quadrant at position (2,1); possiblities left: [9].
+105: Number 1 cannot be at (2,4); reason: discovered number 9 in its place; possiblities left: [9].
+106: Number 2 cannot be at (2,4); reason: discovered number 9 in its place; possiblities left: [9].
+107: Number 3 cannot be at (2,4); reason: discovered number 9 in its place; possiblities left: [9].
+108: Number 4 cannot be at (2,4); reason: discovered number 9 in its place; possiblities left: [9].
+109: Number 5 cannot be at (2,4); reason: discovered number 9 in its place; possiblities left: [9].
+110: Number 8 cannot be at (2,4); reason: discovered number 9 in its place; possiblities left: [9].
+111: Number 9 cannot be at (2,0); reason: discovered the number 9 at the same row at position (2,4); possiblities left: [6].
+112: Number 9 cannot be at (2,2); reason: discovered the number 9 at the same row at position (2,4); possiblities left: [5].
+113: Number 9 cannot be at (2,3); reason: discovered the number 9 at the same row at position (2,4); possiblities left: [4].
+114: Number 9 cannot be at (2,5); reason: discovered the number 9 at the same row at position (2,4); possiblities left: [1].
+115: Number 9 cannot be at (2,6); reason: discovered the number 9 at the same row at position (2,4); possiblities left: [2].
+116: Number 9 cannot be at (2,7); reason: discovered the number 9 at the same row at position (2,4); possiblities left: [8].
+117: Number 9 cannot be at (2,8); reason: discovered the number 9 at the same row at position (2,4); possiblities left: [3].
+118: Number 9 cannot be at (0,4); reason: discovered the number 9 at the same column at position (2,4); possiblities left: [5].
+119: Number 9 cannot be at (1,4); reason: discovered the number 9 at the same column at position (2,4); possiblities left: [8].
+120: Number 9 cannot be at (3,4); reason: discovered the number 9 at the same column at position (2,4); possiblities left: [3].
+121: Number 9 cannot be at (4,4); reason: discovered the number 9 at the same column at position (2,4); possiblities left: [4].
+122: Number 9 cannot be at (5,4); reason: discovered the number 9 at the same column at position (2,4); possiblities left: [6].
+123: Number 9 cannot be at (6,4); reason: discovered the number 9 at the same column at position (2,4); possiblities left: [7].
+124: Number 9 cannot be at (7,4); reason: discovered the number 9 at the same column at position (2,4); possiblities left: [2].
+125: Number 9 cannot be at (8,4); reason: discovered the number 9 at the same column at position (2,4); possiblities left: [1].
+126: Number 9 cannot be at (0,3); reason: discovered the number 9 at the same quadrant at position (2,4); possiblities left: [7].
+127: Number 9 cannot be at (0,5); reason: discovered the number 9 at the same quadrant at position (2,4); possiblities left: [3].
+128: Number 9 cannot be at (1,5); reason: discovered the number 9 at the same quadrant at position (2,4); possiblities left: [2].
+129: Number 1 cannot be at (2,6); reason: discovered number 2 in its place; possiblities left: [2].
+130: Number 3 cannot be at (2,6); reason: discovered number 2 in its place; possiblities left: [2].
+131: Number 4 cannot be at (2,6); reason: discovered number 2 in its place; possiblities left: [2].
+132: Number 5 cannot be at (2,6); reason: discovered number 2 in its place; possiblities left: [2].
+133: Number 6 cannot be at (2,6); reason: discovered number 2 in its place; possiblities left: [2].
+134: Number 8 cannot be at (2,6); reason: discovered number 2 in its place; possiblities left: [2].
+135: Number 2 cannot be at (2,0); reason: discovered the number 2 at the same row at position (2,6); possiblities left: [6].
+136: Number 2 cannot be at (2,2); reason: discovered the number 2 at the same row at position (2,6); possiblities left: [5].
+137: Number 2 cannot be at (2,3); reason: discovered the number 2 at the same row at position (2,6); possiblities left: [4].
+138: Number 2 cannot be at (2,5); reason: discovered the number 2 at the same row at position (2,6); possiblities left: [1].
+139: Number 2 cannot be at (2,7); reason: discovered the number 2 at the same row at position (2,6); possiblities left: [8].
+140: Number 2 cannot be at (2,8); reason: discovered the number 2 at the same row at position (2,6); possiblities left: [3].
+141: Number 2 cannot be at (0,6); reason: discovered the number 2 at the same column at position (2,6); possiblities left: [6].
+142: Number 2 cannot be at (1,6); reason: discovered the number 2 at the same column at position (2,6); possiblities left: [1].
+143: Number 2 cannot be at (3,6); reason: discovered the number 2 at the same column at position (2,6); possiblities left: [8].
+144: Number 2 cannot be at (4,6); reason: discovered the number 2 at the same column at position (2,6); possiblities left: [7].
+145: Number 2 cannot be at (5,6); reason: discovered the number 2 at the same column at position (2,6); possiblities left: [5].
+146: Number 2 cannot be at (6,6); reason: discovered the number 2 at the same column at position (2,6); possiblities left: [3].
+147: Number 2 cannot be at (7,6); reason: discovered the number 2 at the same column at position (2,6); possiblities left: [9].
+148: Number 2 cannot be at (8,6); reason: discovered the number 2 at the same column at position (2,6); possiblities left: [4].
+149: Number 2 cannot be at (0,7); reason: discovered the number 2 at the same quadrant at position (2,6); possiblities left: [4].
+150: Number 2 cannot be at (0,8); reason: discovered the number 2 at the same quadrant at position (2,6); possiblities left: [9].
+151: Number 2 cannot be at (1,7); reason: discovered the number 2 at the same quadrant at position (2,6); possiblities left: [7].
+152: Number 2 cannot be at (1,8); reason: discovered the number 2 at the same quadrant at position (2,6); possiblities left: [5].
+153: Number 1 cannot be at (3,1); reason: discovered number 5 in its place; possiblities left: [5].
+154: Number 2 cannot be at (3,1); reason: discovered number 5 in its place; possiblities left: [5].
+155: Number 3 cannot be at (3,1); reason: discovered number 5 in its place; possiblities left: [5].
+156: Number 4 cannot be at (3,1); reason: discovered number 5 in its place; possiblities left: [5].
+157: Number 6 cannot be at (3,1); reason: discovered number 5 in its place; possiblities left: [5].
+158: Number 8 cannot be at (3,1); reason: discovered number 5 in its place; possiblities left: [5].
+159: Number 9 cannot be at (3,1); reason: discovered number 5 in its place; possiblities left: [5].
+160: Number 5 cannot be at (3,0); reason: discovered the number 5 at the same row at position (3,1); possiblities left: [1].
+161: Number 5 cannot be at (3,2); reason: discovered the number 5 at the same row at position (3,1); possiblities left: [4].
+162: Number 5 cannot be at (3,3); reason: discovered the number 5 at the same row at position (3,1); possiblities left: [2].
+163: Number 5 cannot be at (3,4); reason: discovered the number 5 at the same row at position (3,1); possiblities left: [3].
+164: Number 5 cannot be at (3,5); reason: discovered the number 5 at the same row at position (3,1); possiblities left: [7].
+165: Number 5 cannot be at (3,6); reason: discovered the number 5 at the same row at position (3,1); possiblities left: [8].
+166: Number 5 cannot be at (3,7); reason: discovered the number 5 at the same row at position (3,1); possiblities left: [9].
+167: Number 5 cannot be at (3,8); reason: discovered the number 5 at the same row at position (3,1); possiblities left: [6].
+168: Number 5 cannot be at (0,1); reason: discovered the number 5 at the same column at position (3,1); possiblities left: [1].
+169: Number 5 cannot be at (1,1); reason: discovered the number 5 at the same column at position (3,1); possiblities left: [4].
+170: Number 5 cannot be at (4,1); reason: discovered the number 5 at the same column at position (3,1); possiblities left: [6].
+171: Number 5 cannot be at (5,1); reason: discovered the number 5 at the same column at position (3,1); possiblities left: [8].
+172: Number 5 cannot be at (6,1); reason: discovered the number 5 at the same column at position (3,1); possiblities left: [2].
+173: Number 5 cannot be at (7,1); reason: discovered the number 5 at the same column at position (3,1); possiblities left: [3].
+174: Number 5 cannot be at (8,1); reason: discovered the number 5 at the same column at position (3,1); possiblities left: [9].
+175: Number 5 cannot be at (4,0); reason: discovered the number 5 at the same quadrant at position (3,1); possiblities left: [3].
+176: Number 5 cannot be at (4,2); reason: discovered the number 5 at the same quadrant at position (3,1); possiblities left: [9].
+177: Number 5 cannot be at (5,0); reason: discovered the number 5 at the same quadrant at position (3,1); possiblities left: [2].
+178: Number 5 cannot be at (5,2); reason: discovered the number 5 at the same quadrant at position (3,1); possiblities left: [7].
+179: Number 1 cannot be at (3,5); reason: discovered number 7 in its place; possiblities left: [7].
+180: Number 2 cannot be at (3,5); reason: discovered number 7 in its place; possiblities left: [7].
+181: Number 3 cannot be at (3,5); reason: discovered number 7 in its place; possiblities left: [7].
+182: Number 4 cannot be at (3,5); reason: discovered number 7 in its place; possiblities left: [7].
+183: Number 6 cannot be at (3,5); reason: discovered number 7 in its place; possiblities left: [7].
+184: Number 8 cannot be at (3,5); reason: discovered number 7 in its place; possiblities left: [7].
+185: Number 9 cannot be at (3,5); reason: discovered number 7 in its place; possiblities left: [7].
+186: Number 7 cannot be at (3,0); reason: discovered the number 7 at the same row at position (3,5); possiblities left: [1].
+187: Number 7 cannot be at (3,2); reason: discovered the number 7 at the same row at position (3,5); possiblities left: [4].
+188: Number 7 cannot be at (3,3); reason: discovered the number 7 at the same row at position (3,5); possiblities left: [2].
+189: Number 7 cannot be at (3,4); reason: discovered the number 7 at the same row at position (3,5); possiblities left: [3].
+190: Number 7 cannot be at (3,6); reason: discovered the number 7 at the same row at position (3,5); possiblities left: [8].
+191: Number 7 cannot be at (3,7); reason: discovered the number 7 at the same row at position (3,5); possiblities left: [9].
+192: Number 7 cannot be at (3,8); reason: discovered the number 7 at the same row at position (3,5); possiblities left: [6].
+193: Number 7 cannot be at (0,5); reason: discovered the number 7 at the same column at position (3,5); possiblities left: [3].
+194: Number 7 cannot be at (1,5); reason: discovered the number 7 at the same column at position (3,5); possiblities left: [2].
+195: Number 7 cannot be at (4,5); reason: discovered the number 7 at the same column at position (3,5); possiblities left: [5].
+196: Number 7 cannot be at (5,5); reason: discovered the number 7 at the same column at position (3,5); possiblities left: [9].
+197: Number 7 cannot be at (6,5); reason: discovered the number 7 at the same column at position (3,5); possiblities left: [4].
+198: Number 7 cannot be at (7,5); reason: discovered the number 7 at the same column at position (3,5); possiblities left: [6].
+199: Number 7 cannot be at (8,5); reason: discovered the number 7 at the same column at position (3,5); possiblities left: [8].
+200: Number 7 cannot be at (4,3); reason: discovered the number 7 at the same quadrant at position (3,5); possiblities left: [8].
+201: Number 7 cannot be at (4,4); reason: discovered the number 7 at the same quadrant at position (3,5); possiblities left: [4].
+202: Number 7 cannot be at (5,3); reason: discovered the number 7 at the same quadrant at position (3,5); possiblities left: [1].
+203: Number 7 cannot be at (5,4); reason: discovered the number 7 at the same quadrant at position (3,5); possiblities left: [6].
+204: Number 1 cannot be at (4,4); reason: discovered number 4 in its place; possiblities left: [4].
+205: Number 2 cannot be at (4,4); reason: discovered number 4 in its place; possiblities left: [4].
+206: Number 3 cannot be at (4,4); reason: discovered number 4 in its place; possiblities left: [4].
+207: Number 5 cannot be at (4,4); reason: discovered number 4 in its place; possiblities left: [4].
+208: Number 6 cannot be at (4,4); reason: discovered number 4 in its place; possiblities left: [4].
+209: Number 8 cannot be at (4,4); reason: discovered number 4 in its place; possiblities left: [4].
+210: Number 4 cannot be at (4,0); reason: discovered the number 4 at the same row at position (4,4); possiblities left: [3].
+211: Number 4 cannot be at (4,1); reason: discovered the number 4 at the same row at position (4,4); possiblities left: [6].
+212: Number 4 cannot be at (4,2); reason: discovered the number 4 at the same row at position (4,4); possiblities left: [9].
+213: Number 4 cannot be at (4,3); reason: discovered the number 4 at the same row at position (4,4); possiblities left: [8].
+214: Number 4 cannot be at (4,5); reason: discovered the number 4 at the same row at position (4,4); possiblities left: [5].
+215: Number 4 cannot be at (4,6); reason: discovered the number 4 at the same row at position (4,4); possiblities left: [7].
+216: Number 4 cannot be at (4,7); reason: discovered the number 4 at the same row at position (4,4); possiblities left: [2].
+217: Number 4 cannot be at (4,8); reason: discovered the number 4 at the same row at position (4,4); possiblities left: [1].
+218: Number 4 cannot be at (0,4); reason: discovered the number 4 at the same column at position (4,4); possiblities left: [5].
+219: Number 4 cannot be at (1,4); reason: discovered the number 4 at the same column at position (4,4); possiblities left: [8].
+220: Number 4 cannot be at (3,4); reason: discovered the number 4 at the same column at position (4,4); possiblities left: [3].
+221: Number 4 cannot be at (5,4); reason: discovered the number 4 at the same column at position (4,4); possiblities left: [6].
+222: Number 4 cannot be at (6,4); reason: discovered the number 4 at the same column at position (4,4); possiblities left: [7].
+223: Number 4 cannot be at (7,4); reason: discovered the number 4 at the same column at position (4,4); possiblities left: [2].
+224: Number 4 cannot be at (8,4); reason: discovered the number 4 at the same column at position (4,4); possiblities left: [1].
+225: Number 4 cannot be at (3,3); reason: discovered the number 4 at the same quadrant at position (4,4); possiblities left: [2].
+226: Number 4 cannot be at (5,3); reason: discovered the number 4 at the same quadrant at position (4,4); possiblities left: [1].
+227: Number 4 cannot be at (5,5); reason: discovered the number 4 at the same quadrant at position (4,4); possiblities left: [9].
+228: Number 1 cannot be at (4,5); reason: discovered number 5 in its place; possiblities left: [5].
+229: Number 2 cannot be at (4,5); reason: discovered number 5 in its place; possiblities left: [5].
+230: Number 3 cannot be at (4,5); reason: discovered number 5 in its place; possiblities left: [5].
+231: Number 6 cannot be at (4,5); reason: discovered number 5 in its place; possiblities left: [5].
+232: Number 8 cannot be at (4,5); reason: discovered number 5 in its place; possiblities left: [5].
+233: Number 9 cannot be at (4,5); reason: discovered number 5 in its place; possiblities left: [5].
+234: Number 5 cannot be at (4,3); reason: discovered the number 5 at the same row at position (4,5); possiblities left: [8].
+235: Number 5 cannot be at (4,6); reason: discovered the number 5 at the same row at position (4,5); possiblities left: [7].
+236: Number 5 cannot be at (4,7); reason: discovered the number 5 at the same row at position (4,5); possiblities left: [2].
+237: Number 5 cannot be at (4,8); reason: discovered the number 5 at the same row at position (4,5); possiblities left: [1].
+238: Number 5 cannot be at (0,5); reason: discovered the number 5 at the same column at position (4,5); possiblities left: [3].
+239: Number 5 cannot be at (1,5); reason: discovered the number 5 at the same column at position (4,5); possiblities left: [2].
+240: Number 5 cannot be at (2,5); reason: discovered the number 5 at the same column at position (4,5); possiblities left: [1].
+241: Number 5 cannot be at (5,5); reason: discovered the number 5 at the same column at position (4,5); possiblities left: [9].
+242: Number 5 cannot be at (6,5); reason: discovered the number 5 at the same column at position (4,5); possiblities left: [4].
+243: Number 5 cannot be at (7,5); reason: discovered the number 5 at the same column at position (4,5); possiblities left: [6].
+244: Number 5 cannot be at (8,5); reason: discovered the number 5 at the same column at position (4,5); possiblities left: [8].
+245: Number 5 cannot be at (5,3); reason: discovered the number 5 at the same quadrant at position (4,5); possiblities left: [1].
+246: Number 5 cannot be at (5,4); reason: discovered the number 5 at the same quadrant at position (4,5); possiblities left: [6].
+247: Number 1 cannot be at (4,6); reason: discovered number 7 in its place; possiblities left: [7].
+248: Number 3 cannot be at (4,6); reason: discovered number 7 in its place; possiblities left: [7].
+249: Number 6 cannot be at (4,6); reason: discovered number 7 in its place; possiblities left: [7].
+250: Number 8 cannot be at (4,6); reason: discovered number 7 in its place; possiblities left: [7].
+251: Number 9 cannot be at (4,6); reason: discovered number 7 in its place; possiblities left: [7].
+252: Number 7 cannot be at (4,0); reason: discovered the number 7 at the same row at position (4,6); possiblities left: [3].
+253: Number 7 cannot be at (4,2); reason: discovered the number 7 at the same row at position (4,6); possiblities left: [9].
+254: Number 7 cannot be at (4,7); reason: discovered the number 7 at the same row at position (4,6); possiblities left: [2].
+255: Number 7 cannot be at (4,8); reason: discovered the number 7 at the same row at position (4,6); possiblities left: [1].
+256: Number 7 cannot be at (0,6); reason: discovered the number 7 at the same column at position (4,6); possiblities left: [6].
+257: Number 7 cannot be at (1,6); reason: discovered the number 7 at the same column at position (4,6); possiblities left: [1].
+258: Number 7 cannot be at (5,6); reason: discovered the number 7 at the same column at position (4,6); possiblities left: [5].
+259: Number 7 cannot be at (6,6); reason: discovered the number 7 at the same column at position (4,6); possiblities left: [3].
+260: Number 7 cannot be at (7,6); reason: discovered the number 7 at the same column at position (4,6); possiblities left: [9].
+261: Number 7 cannot be at (8,6); reason: discovered the number 7 at the same column at position (4,6); possiblities left: [4].
+262: Number 7 cannot be at (5,7); reason: discovered the number 7 at the same quadrant at position (4,6); possiblities left: [3].
+263: Number 7 cannot be at (5,8); reason: discovered the number 7 at the same quadrant at position (4,6); possiblities left: [4].
+264: Number 2 cannot be at (5,3); reason: discovered number 1 in its place; possiblities left: [1].
+265: Number 3 cannot be at (5,3); reason: discovered number 1 in its place; possiblities left: [1].
+266: Number 8 cannot be at (5,3); reason: discovered number 1 in its place; possiblities left: [1].
+267: Number 9 cannot be at (5,3); reason: discovered number 1 in its place; possiblities left: [1].
+268: Number 1 cannot be at (5,0); reason: discovered the number 1 at the same row at position (5,3); possiblities left: [2].
+269: Number 1 cannot be at (5,1); reason: discovered the number 1 at the same row at position (5,3); possiblities left: [8].
+270: Number 1 cannot be at (5,2); reason: discovered the number 1 at the same row at position (5,3); possiblities left: [7].
+271: Number 1 cannot be at (5,4); reason: discovered the number 1 at the same row at position (5,3); possiblities left: [6].
+272: Number 1 cannot be at (5,5); reason: discovered the number 1 at the same row at position (5,3); possiblities left: [9].
+273: Number 1 cannot be at (5,6); reason: discovered the number 1 at the same row at position (5,3); possiblities left: [5].
+274: Number 1 cannot be at (5,7); reason: discovered the number 1 at the same row at position (5,3); possiblities left: [3].
+275: Number 1 cannot be at (5,8); reason: discovered the number 1 at the same row at position (5,3); possiblities left: [4].
+276: Number 1 cannot be at (0,3); reason: discovered the number 1 at the same column at position (5,3); possiblities left: [7].
+277: Number 1 cannot be at (2,3); reason: discovered the number 1 at the same column at position (5,3); possiblities left: [4].
+278: Number 1 cannot be at (3,3); reason: discovered the number 1 at the same column at position (5,3); possiblities left: [2].
+279: Number 1 cannot be at (4,3); reason: discovered the number 1 at the same column at position (5,3); possiblities left: [8].
+280: Number 1 cannot be at (6,3); reason: discovered the number 1 at the same column at position (5,3); possiblities left: [9].
+281: Number 1 cannot be at (7,3); reason: discovered the number 1 at the same column at position (5,3); possiblities left: [5].
+282: Number 1 cannot be at (8,3); reason: discovered the number 1 at the same column at position (5,3); possiblities left: [3].
+283: Number 1 cannot be at (3,4); reason: discovered the number 1 at the same quadrant at position (5,3); possiblities left: [3].
+284: Number 2 cannot be at (5,7); reason: discovered number 3 in its place; possiblities left: [3].
+285: Number 4 cannot be at (5,7); reason: discovered number 3 in its place; possiblities left: [3].
+286: Number 5 cannot be at (5,7); reason: discovered number 3 in its place; possiblities left: [3].
+287: Number 6 cannot be at (5,7); reason: discovered number 3 in its place; possiblities left: [3].
+288: Number 8 cannot be at (5,7); reason: discovered number 3 in its place; possiblities left: [3].
+289: Number 9 cannot be at (5,7); reason: discovered number 3 in its place; possiblities left: [3].
+290: Number 3 cannot be at (5,0); reason: discovered the number 3 at the same row at position (5,7); possiblities left: [2].
+291: Number 3 cannot be at (5,1); reason: discovered the number 3 at the same row at position (5,7); possiblities left: [8].
+292: Number 3 cannot be at (5,4); reason: discovered the number 3 at the same row at position (5,7); possiblities left: [6].
+293: Number 3 cannot be at (5,5); reason: discovered the number 3 at the same row at position (5,7); possiblities left: [9].
+294: Number 3 cannot be at (5,6); reason: discovered the number 3 at the same row at position (5,7); possiblities left: [5].
+295: Number 3 cannot be at (5,8); reason: discovered the number 3 at the same row at position (5,7); possiblities left: [4].
+296: Number 3 cannot be at (0,7); reason: discovered the number 3 at the same column at position (5,7); possiblities left: [4].
+297: Number 3 cannot be at (2,7); reason: discovered the number 3 at the same column at position (5,7); possiblities left: [8].
+298: Number 3 cannot be at (3,7); reason: discovered the number 3 at the same column at position (5,7); possiblities left: [9].
+299: Number 3 cannot be at (4,7); reason: discovered the number 3 at the same column at position (5,7); possiblities left: [2].
+300: Number 3 cannot be at (6,7); reason: discovered the number 3 at the same column at position (5,7); possiblities left: [6].
+301: Number 3 cannot be at (7,7); reason: discovered the number 3 at the same column at position (5,7); possiblities left: [1].
+302: Number 3 cannot be at (8,7); reason: discovered the number 3 at the same column at position (5,7); possiblities left: [5].
+303: Number 3 cannot be at (3,6); reason: discovered the number 3 at the same quadrant at position (5,7); possiblities left: [8].
+304: Number 3 cannot be at (3,8); reason: discovered the number 3 at the same quadrant at position (5,7); possiblities left: [6].
+305: Number 3 cannot be at (4,8); reason: discovered the number 3 at the same quadrant at position (5,7); possiblities left: [1].
+306: Number 2 cannot be at (6,2); reason: discovered number 1 in its place; possiblities left: [1].
+307: Number 4 cannot be at (6,2); reason: discovered number 1 in its place; possiblities left: [1].
+308: Number 5 cannot be at (6,2); reason: discovered number 1 in its place; possiblities left: [1].
+309: Number 6 cannot be at (6,2); reason: discovered number 1 in its place; possiblities left: [1].
+310: Number 7 cannot be at (6,2); reason: discovered number 1 in its place; possiblities left: [1].
+311: Number 8 cannot be at (6,2); reason: discovered number 1 in its place; possiblities left: [1].
+312: Number 9 cannot be at (6,2); reason: discovered number 1 in its place; possiblities left: [1].
+313: Number 1 cannot be at (6,0); reason: discovered the number 1 at the same row at position (6,2); possiblities left: [5].
+314: Number 1 cannot be at (6,1); reason: discovered the number 1 at the same row at position (6,2); possiblities left: [2].
+315: Number 1 cannot be at (6,4); reason: discovered the number 1 at the same row at position (6,2); possiblities left: [7].
+316: Number 1 cannot be at (6,5); reason: discovered the number 1 at the same row at position (6,2); possiblities left: [4].
+317: Number 1 cannot be at (6,6); reason: discovered the number 1 at the same row at position (6,2); possiblities left: [3].
+318: Number 1 cannot be at (6,7); reason: discovered the number 1 at the same row at position (6,2); possiblities left: [6].
+319: Number 1 cannot be at (6,8); reason: discovered the number 1 at the same row at position (6,2); possiblities left: [8].
+320: Number 1 cannot be at (0,2); reason: discovered the number 1 at the same column at position (6,2); possiblities left: [2].
+321: Number 1 cannot be at (2,2); reason: discovered the number 1 at the same column at position (6,2); possiblities left: [5].
+322: Number 1 cannot be at (3,2); reason: discovered the number 1 at the same column at position (6,2); possiblities left: [4].
+323: Number 1 cannot be at (4,2); reason: discovered the number 1 at the same column at position (6,2); possiblities left: [9].
+324: Number 1 cannot be at (7,2); reason: discovered the number 1 at the same column at position (6,2); possiblities left: [8].
+325: Number 1 cannot be at (8,2); reason: discovered the number 1 at the same column at position (6,2); possiblities left: [6].
+326: Number 1 cannot be at (7,0); reason: discovered the number 1 at the same quadrant at position (6,2); possiblities left: [4].
+327: Number 1 cannot be at (7,1); reason: discovered the number 1 at the same quadrant at position (6,2); possiblities left: [3].
+328: Number 1 cannot be at (8,0); reason: discovered the number 1 at the same quadrant at position (6,2); possiblities left: [7].
+329: Number 1 cannot be at (8,1); reason: discovered the number 1 at the same quadrant at position (6,2); possiblities left: [9].
+330: Number 2 cannot be at (6,7); reason: discovered number 6 in its place; possiblities left: [6].
+331: Number 4 cannot be at (6,7); reason: discovered number 6 in its place; possiblities left: [6].
+332: Number 5 cannot be at (6,7); reason: discovered number 6 in its place; possiblities left: [6].
+333: Number 7 cannot be at (6,7); reason: discovered number 6 in its place; possiblities left: [6].
+334: Number 8 cannot be at (6,7); reason: discovered number 6 in its place; possiblities left: [6].
+335: Number 9 cannot be at (6,7); reason: discovered number 6 in its place; possiblities left: [6].
+336: Number 6 cannot be at (6,0); reason: discovered the number 6 at the same row at position (6,7); possiblities left: [5].
+337: Number 6 cannot be at (6,1); reason: discovered the number 6 at the same row at position (6,7); possiblities left: [2].
+338: Number 6 cannot be at (6,4); reason: discovered the number 6 at the same row at position (6,7); possiblities left: [7].
+339: Number 6 cannot be at (6,5); reason: discovered the number 6 at the same row at position (6,7); possiblities left: [4].
+340: Number 6 cannot be at (6,6); reason: discovered the number 6 at the same row at position (6,7); possiblities left: [3].
+341: Number 6 cannot be at (6,8); reason: discovered the number 6 at the same row at position (6,7); possiblities left: [8].
+342: Number 6 cannot be at (0,7); reason: discovered the number 6 at the same column at position (6,7); possiblities left: [4].
+343: Number 6 cannot be at (2,7); reason: discovered the number 6 at the same column at position (6,7); possiblities left: [8].
+344: Number 6 cannot be at (3,7); reason: discovered the number 6 at the same column at position (6,7); possiblities left: [9].
+345: Number 6 cannot be at (4,7); reason: discovered the number 6 at the same column at position (6,7); possiblities left: [2].
+346: Number 6 cannot be at (7,7); reason: discovered the number 6 at the same column at position (6,7); possiblities left: [1].
+347: Number 6 cannot be at (8,7); reason: discovered the number 6 at the same column at position (6,7); possiblities left: [5].
+348: Number 6 cannot be at (7,6); reason: discovered the number 6 at the same quadrant at position (6,7); possiblities left: [9].
+349: Number 6 cannot be at (7,8); reason: discovered the number 6 at the same quadrant at position (6,7); possiblities left: [7].
+350: Number 6 cannot be at (8,6); reason: discovered the number 6 at the same quadrant at position (6,7); possiblities left: [4].
+351: Number 6 cannot be at (8,8); reason: discovered the number 6 at the same quadrant at position (6,7); possiblities left: [2].
+352: Number 2 cannot be at (6,8); reason: discovered number 8 in its place; possiblities left: [8].
+353: Number 3 cannot be at (6,8); reason: discovered number 8 in its place; possiblities left: [8].
+354: Number 4 cannot be at (6,8); reason: discovered number 8 in its place; possiblities left: [8].
+355: Number 5 cannot be at (6,8); reason: discovered number 8 in its place; possiblities left: [8].
+356: Number 7 cannot be at (6,8); reason: discovered number 8 in its place; possiblities left: [8].
+357: Number 9 cannot be at (6,8); reason: discovered number 8 in its place; possiblities left: [8].
+358: Number 8 cannot be at (6,1); reason: discovered the number 8 at the same row at position (6,8); possiblities left: [2].
+359: Number 8 cannot be at (6,3); reason: discovered the number 8 at the same row at position (6,8); possiblities left: [9].
+360: Number 8 cannot be at (6,4); reason: discovered the number 8 at the same row at position (6,8); possiblities left: [7].
+361: Number 8 cannot be at (6,5); reason: discovered the number 8 at the same row at position (6,8); possiblities left: [4].
+362: Number 8 cannot be at (6,6); reason: discovered the number 8 at the same row at position (6,8); possiblities left: [3].
+363: Number 8 cannot be at (1,8); reason: discovered the number 8 at the same column at position (6,8); possiblities left: [5].
+364: Number 8 cannot be at (2,8); reason: discovered the number 8 at the same column at position (6,8); possiblities left: [3].
+365: Number 8 cannot be at (3,8); reason: discovered the number 8 at the same column at position (6,8); possiblities left: [6].
+366: Number 8 cannot be at (4,8); reason: discovered the number 8 at the same column at position (6,8); possiblities left: [1].
+367: Number 8 cannot be at (5,8); reason: discovered the number 8 at the same column at position (6,8); possiblities left: [4].
+368: Number 8 cannot be at (7,8); reason: discovered the number 8 at the same column at position (6,8); possiblities left: [7].
+369: Number 8 cannot be at (8,8); reason: discovered the number 8 at the same column at position (6,8); possiblities left: [2].
+370: Number 8 cannot be at (7,6); reason: discovered the number 8 at the same quadrant at position (6,8); possiblities left: [9].
+371: Number 8 cannot be at (7,7); reason: discovered the number 8 at the same quadrant at position (6,8); possiblities left: [1].
+372: Number 8 cannot be at (8,6); reason: discovered the number 8 at the same quadrant at position (6,8); possiblities left: [4].
+373: Number 8 cannot be at (8,7); reason: discovered the number 8 at the same quadrant at position (6,8); possiblities left: [5].
+374: Number 2 cannot be at (7,2); reason: discovered number 8 in its place; possiblities left: [8].
+375: Number 4 cannot be at (7,2); reason: discovered number 8 in its place; possiblities left: [8].
+376: Number 5 cannot be at (7,2); reason: discovered number 8 in its place; possiblities left: [8].
+377: Number 6 cannot be at (7,2); reason: discovered number 8 in its place; possiblities left: [8].
+378: Number 7 cannot be at (7,2); reason: discovered number 8 in its place; possiblities left: [8].
+379: Number 9 cannot be at (7,2); reason: discovered number 8 in its place; possiblities left: [8].
+380: Number 8 cannot be at (7,1); reason: discovered the number 8 at the same row at position (7,2); possiblities left: [3].
+381: Number 8 cannot be at (7,3); reason: discovered the number 8 at the same row at position (7,2); possiblities left: [5].
+382: Number 8 cannot be at (7,4); reason: discovered the number 8 at the same row at position (7,2); possiblities left: [2].
+383: Number 8 cannot be at (7,5); reason: discovered the number 8 at the same row at position (7,2); possiblities left: [6].
+384: Number 8 cannot be at (3,2); reason: discovered the number 8 at the same column at position (7,2); possiblities left: [4].
+385: Number 8 cannot be at (4,2); reason: discovered the number 8 at the same column at position (7,2); possiblities left: [9].
+386: Number 8 cannot be at (5,2); reason: discovered the number 8 at the same column at position (7,2); possiblities left: [7].
+387: Number 8 cannot be at (8,2); reason: discovered the number 8 at the same column at position (7,2); possiblities left: [6].
+388: Number 8 cannot be at (8,1); reason: discovered the number 8 at the same quadrant at position (7,2); possiblities left: [9].
+389: Number 2 cannot be at (7,3); reason: discovered number 5 in its place; possiblities left: [5].
+390: Number 3 cannot be at (7,3); reason: discovered number 5 in its place; possiblities left: [5].
+391: Number 4 cannot be at (7,3); reason: discovered number 5 in its place; possiblities left: [5].
+392: Number 7 cannot be at (7,3); reason: discovered number 5 in its place; possiblities left: [5].
+393: Number 9 cannot be at (7,3); reason: discovered number 5 in its place; possiblities left: [5].
+394: Number 5 cannot be at (7,0); reason: discovered the number 5 at the same row at position (7,3); possiblities left: [4].
+395: Number 5 cannot be at (7,4); reason: discovered the number 5 at the same row at position (7,3); possiblities left: [2].
+396: Number 5 cannot be at (7,6); reason: discovered the number 5 at the same row at position (7,3); possiblities left: [9].
+397: Number 5 cannot be at (7,7); reason: discovered the number 5 at the same row at position (7,3); possiblities left: [1].
+398: Number 5 cannot be at (7,8); reason: discovered the number 5 at the same row at position (7,3); possiblities left: [7].
+399: Number 5 cannot be at (0,3); reason: discovered the number 5 at the same column at position (7,3); possiblities left: [7].
+400: Number 5 cannot be at (2,3); reason: discovered the number 5 at the same column at position (7,3); possiblities left: [4].
+401: Number 5 cannot be at (6,3); reason: discovered the number 5 at the same column at position (7,3); possiblities left: [9].
+402: Number 5 cannot be at (8,3); reason: discovered the number 5 at the same column at position (7,3); possiblities left: [3].
+403: Number 5 cannot be at (6,4); reason: discovered the number 5 at the same quadrant at position (7,3); possiblities left: [7].
+404: Number 5 cannot be at (8,4); reason: discovered the number 5 at the same quadrant at position (7,3); possiblities left: [1].
+405: Number 2 cannot be at (7,7); reason: discovered number 1 in its place; possiblities left: [1].
+406: Number 4 cannot be at (7,7); reason: discovered number 1 in its place; possiblities left: [1].
+407: Number 7 cannot be at (7,7); reason: discovered number 1 in its place; possiblities left: [1].
+408: Number 9 cannot be at (7,7); reason: discovered number 1 in its place; possiblities left: [1].
+409: Number 1 cannot be at (7,4); reason: discovered the number 1 at the same row at position (7,7); possiblities left: [2].
+410: Number 1 cannot be at (7,5); reason: discovered the number 1 at the same row at position (7,7); possiblities left: [6].
+411: Number 1 cannot be at (7,6); reason: discovered the number 1 at the same row at position (7,7); possiblities left: [9].
+412: Number 1 cannot be at (7,8); reason: discovered the number 1 at the same row at position (7,7); possiblities left: [7].
+413: Number 1 cannot be at (0,7); reason: discovered the number 1 at the same column at position (7,7); possiblities left: [4].
+414: Number 1 cannot be at (1,7); reason: discovered the number 1 at the same column at position (7,7); possiblities left: [7].
+415: Number 1 cannot be at (2,7); reason: discovered the number 1 at the same column at position (7,7); possiblities left: [8].
+416: Number 1 cannot be at (3,7); reason: discovered the number 1 at the same column at position (7,7); possiblities left: [9].
+417: Number 1 cannot be at (4,7); reason: discovered the number 1 at the same column at position (7,7); possiblities left: [2].
+418: Number 1 cannot be at (8,7); reason: discovered the number 1 at the same column at position (7,7); possiblities left: [5].
+419: Number 1 cannot be at (8,6); reason: discovered the number 1 at the same quadrant at position (7,7); possiblities left: [4].
+420: Number 1 cannot be at (8,8); reason: discovered the number 1 at the same quadrant at position (7,7); possiblities left: [2].
+421: Number 2 cannot be at (8,1); reason: discovered number 9 in its place; possiblities left: [9].
+422: Number 3 cannot be at (8,1); reason: discovered number 9 in its place; possiblities left: [9].
+423: Number 4 cannot be at (8,1); reason: discovered number 9 in its place; possiblities left: [9].
+424: Number 6 cannot be at (8,1); reason: discovered number 9 in its place; possiblities left: [9].
+425: Number 9 cannot be at (8,0); reason: discovered the number 9 at the same row at position (8,1); possiblities left: [7].
+426: Number 9 cannot be at (8,2); reason: discovered the number 9 at the same row at position (8,1); possiblities left: [6].
+427: Number 9 cannot be at (8,3); reason: discovered the number 9 at the same row at position (8,1); possiblities left: [3].
+428: Number 9 cannot be at (8,5); reason: discovered the number 9 at the same row at position (8,1); possiblities left: [8].
+429: Number 9 cannot be at (8,6); reason: discovered the number 9 at the same row at position (8,1); possiblities left: [4].
+430: Number 9 cannot be at (8,7); reason: discovered the number 9 at the same row at position (8,1); possiblities left: [5].
+431: Number 9 cannot be at (8,8); reason: discovered the number 9 at the same row at position (8,1); possiblities left: [2].
+432: Number 9 cannot be at (0,1); reason: discovered the number 9 at the same column at position (8,1); possiblities left: [1].
+433: Number 9 cannot be at (1,1); reason: discovered the number 9 at the same column at position (8,1); possiblities left: [4].
+434: Number 9 cannot be at (4,1); reason: discovered the number 9 at the same column at position (8,1); possiblities left: [6].
+435: Number 9 cannot be at (5,1); reason: discovered the number 9 at the same column at position (8,1); possiblities left: [8].
+436: Number 9 cannot be at (6,1); reason: discovered the number 9 at the same column at position (8,1); possiblities left: [2].
+437: Number 9 cannot be at (7,1); reason: discovered the number 9 at the same column at position (8,1); possiblities left: [3].
+438: Number 9 cannot be at (6,0); reason: discovered the number 9 at the same quadrant at position (8,1); possiblities left: [5].
+439: Number 9 cannot be at (7,0); reason: discovered the number 9 at the same quadrant at position (8,1); possiblities left: [4].
+440: Number 3 cannot be at (8,6); reason: discovered number 4 in its place; possiblities left: [4].
+441: Number 5 cannot be at (8,6); reason: discovered number 4 in its place; possiblities left: [4].
+442: Number 4 cannot be at (8,0); reason: discovered the number 4 at the same row at position (8,6); possiblities left: [7].
+443: Number 4 cannot be at (8,2); reason: discovered the number 4 at the same row at position (8,6); possiblities left: [6].
+444: Number 4 cannot be at (8,3); reason: discovered the number 4 at the same row at position (8,6); possiblities left: [3].
+445: Number 4 cannot be at (8,5); reason: discovered the number 4 at the same row at position (8,6); possiblities left: [8].
+446: Number 4 cannot be at (8,7); reason: discovered the number 4 at the same row at position (8,6); possiblities left: [5].
+447: Number 4 cannot be at (8,8); reason: discovered the number 4 at the same row at position (8,6); possiblities left: [2].
+448: Number 4 cannot be at (0,6); reason: discovered the number 4 at the same column at position (8,6); possiblities left: [6].
+449: Number 4 cannot be at (1,6); reason: discovered the number 4 at the same column at position (8,6); possiblities left: [1].
+450: Number 4 cannot be at (3,6); reason: discovered the number 4 at the same column at position (8,6); possiblities left: [8].
+451: Number 4 cannot be at (5,6); reason: discovered the number 4 at the same column at position (8,6); possiblities left: [5].
+452: Number 4 cannot be at (6,6); reason: discovered the number 4 at the same column at position (8,6); possiblities left: [3].
+453: Number 4 cannot be at (7,6); reason: discovered the number 4 at the same column at position (8,6); possiblities left: [9].
+454: Number 4 cannot be at (7,8); reason: discovered the number 4 at the same quadrant at position (8,6); possiblities left: [7].
+455: Number 3 cannot be at (7,6); reason: failed guess with reason: 2 possibilities at cell; discoveries: 22; possiblities left: [9].
+456: Discovered number 9 at position (7,6); reason: it is the last possibility for the cell; discoveries: 22.
+457: Number 9 cannot be at (7,5); reason: discovered the number 9 at the same row at position (7,6); possiblities left: [6].
+458: Number 9 cannot be at (7,8); reason: discovered the number 9 at the same row at position (7,6); possiblities left: [7].
+459: Number 9 cannot be at (0,6); reason: discovered the number 9 at the same column at position (7,6); possiblities left: [6].
+460: Number 9 cannot be at (1,6); reason: discovered the number 9 at the same column at position (7,6); possiblities left: [1].
+461: Number 9 cannot be at (3,6); reason: discovered the number 9 at the same column at position (7,6); possiblities left: [8].
+462: Number 9 cannot be at (5,6); reason: discovered the number 9 at the same column at position (7,6); possiblities left: [5].
+463: Number 9 cannot be at (6,6); reason: discovered the number 9 at the same column at position (7,6); possiblities left: [3].
+464: Discovered number 3 at position (6,6); reason: guess with reason: 2 possibilities at cell; discoveries: 23.
+465: Number 5 cannot be at (6,6); reason: discovered number 3 in its place; possiblities left: [3].
+466: Discovered number 5 at position (6,0); reason: it is the last possibility for the row; discoveries: 24.
+467: Number 3 cannot be at (6,0); reason: discovered the number 3 at the same row at position (6,6); possiblities left: [5].
+468: Number 3 cannot be at (6,1); reason: discovered the number 3 at the same row at position (6,6); possiblities left: [2].
+469: Number 3 cannot be at (6,3); reason: discovered the number 3 at the same row at position (6,6); possiblities left: [9].
+470: Number 3 cannot be at (6,4); reason: discovered the number 3 at the same row at position (6,6); possiblities left: [7].
+471: Number 3 cannot be at (6,5); reason: discovered the number 3 at the same row at position (6,6); possiblities left: [4].
+472: Number 3 cannot be at (0,6); reason: discovered the number 3 at the same column at position (6,6); possiblities left: [6].
+473: Number 3 cannot be at (7,8); reason: discovered the number 3 at the same quadrant at position (6,6); possiblities left: [7].
+474: Number 3 cannot be at (8,8); reason: discovered the number 3 at the same quadrant at position (6,6); possiblities left: [2].
+475: Number 5 cannot be at (8,0); reason: row 6 definitely has this number in this quadrant; possiblities left: [7].
+476: Number 5 cannot be at (8,2); reason: row 6 definitely has this number in this quadrant; possiblities left: [6].
+477: Number 2 cannot be at (6,0); reason: discovered number 5 in its place; possiblities left: [5].
+478: Number 4 cannot be at (6,0); reason: discovered number 5 in its place; possiblities left: [5].
+479: Number 7 cannot be at (6,0); reason: discovered number 5 in its place; possiblities left: [5].
+480: Number 5 cannot be at (1,0); reason: discovered the number 5 at the same column at position (6,0); possiblities left: [9].
+481: Number 5 cannot be at (2,0); reason: discovered the number 5 at the same column at position (6,0); possiblities left: [6].
+482: Number 7 cannot be at (7,4); reason: row 6 definitely has this number in this quadrant; possiblities left: [2].
+483: Number 7 cannot be at (8,3); reason: row 6 definitely has this number in this quadrant; possiblities left: [3].
+484: Number 7 cannot be at (8,4); reason: row 6 definitely has this number in this quadrant; possiblities left: [1].
+485: Discovered number 2 at position (6,1); reason: guess with reason: 2 possibilities at cell; discoveries: 25.
+486: Number 4 cannot be at (6,1); reason: discovered number 2 in its place; possiblities left: [2].
+487: Number 2 cannot be at (6,3); reason: discovered the number 2 at the same row at position (6,1); possiblities left: [9].
+488: Number 2 cannot be at (6,4); reason: discovered the number 2 at the same row at position (6,1); possiblities left: [7].
+489: Discovered number 7 at position (6,4); reason: it is the last possibility for the cell; discoveries: 26.
+490: Number 2 cannot be at (6,5); reason: discovered the number 2 at the same row at position (6,1); possiblities left: [4].
+491: Number 2 cannot be at (0,1); reason: discovered the number 2 at the same column at position (6,1); possiblities left: [1].
+492: Number 2 cannot be at (1,1); reason: discovered the number 2 at the same column at position (6,1); possiblities left: [4].
+493: Number 2 cannot be at (4,1); reason: discovered the number 2 at the same column at position (6,1); possiblities left: [6].
+494: Number 2 cannot be at (5,1); reason: discovered the number 2 at the same column at position (6,1); possiblities left: [8].
+495: Number 2 cannot be at (7,1); reason: discovered the number 2 at the same column at position (6,1); possiblities left: [3].
+496: Number 2 cannot be at (7,0); reason: discovered the number 2 at the same quadrant at position (6,1); possiblities left: [4].
+497: Number 2 cannot be at (8,0); reason: discovered the number 2 at the same quadrant at position (6,1); possiblities left: [7].
+498: Number 2 cannot be at (8,2); reason: discovered the number 2 at the same quadrant at position (6,1); possiblities left: [6].
+499: Number 7 cannot be at (6,3); reason: discovered the number 7 at the same row at position (6,4); possiblities left: [9].
+500: Discovered number 7 at position (0,3); reason: it is the last possibility for the column; discoveries: 27.
+501: Number 7 cannot be at (0,4); reason: discovered the number 7 at the same column at position (6,4); possiblities left: [5].
+502: Number 7 cannot be at (1,4); reason: discovered the number 7 at the same column at position (6,4); possiblities left: [8].
+503: Number 7 cannot be at (0,7); reason: row 1 definitely has this number in this quadrant; possiblities left: [4].
+504: Number 7 cannot be at (0,8); reason: row 1 definitely has this number in this quadrant; possiblities left: [9].
+505: Number 4 cannot be at (7,5); reason: row 6 definitely has this number in this quadrant; possiblities left: [6].
+506: Number 2 cannot be at (0,3); reason: discovered number 7 in its place; possiblities left: [7].
+507: Number 3 cannot be at (0,3); reason: discovered number 7 in its place; possiblities left: [7].
+508: Number 4 cannot be at (0,3); reason: discovered number 7 in its place; possiblities left: [7].
+509: Number 4 cannot be at (0,2); reason: hidden combination along quadrant 0 of numbers [2 9] at indexes [2 3] found at cell; possiblities left: [2].
+510: Number 5 cannot be at (0,2); reason: hidden combination along quadrant 0 of numbers [2 9] at indexes [2 3] found at cell; possiblities left: [2].
+511: Discovered number 5 at position (2,2); reason: it is the last possibility for the column; discoveries: 28.
+512: Number 6 cannot be at (0,2); reason: hidden combination along quadrant 0 of numbers [2 9] at indexes [2 3] found at cell; possiblities left: [2].
+513: Number 1 cannot be at (1,0); reason: hidden combination along quadrant 0 of numbers [2 9] at indexes [2 3] found at cell; possiblities left: [9].
+514: Number 4 cannot be at (1,0); reason: hidden combination along quadrant 0 of numbers [2 4 9] at indexes [2 3] found at cell; possiblities left: [9].
+515: Number 4 cannot be at (2,2); reason: discovered number 5 in its place; possiblities left: [5].
+516: Number 6 cannot be at (2,2); reason: discovered number 5 in its place; possiblities left: [5].
+517: Number 5 cannot be at (2,7); reason: discovered the number 5 at the same row at position (2,2); possiblities left: [8].
+518: Number 5 cannot be at (2,8); reason: discovered the number 5 at the same row at position (2,2); possiblities left: [3].
+519: Number 4 cannot be at (3,0); reason: column 2 definitely has this number in this quadrant; possiblities left: [1].
+520: Number 4 cannot be at (5,0); reason: column 2 definitely has this number in this quadrant; possiblities left: [2].
+521: Number 4 cannot be at (5,1); reason: column 2 definitely has this number in this quadrant; possiblities left: [8].
+522: Discovered number 2 at position (0,2); reason: guess with reason: 2 possibilities at cell; discoveries: 29.
+523: Number 9 cannot be at (0,2); reason: discovered number 2 in its place; possiblities left: [2].
+524: Discovered number 9 at position (1,0); reason: it is the last possibility for the quadrant; discoveries: 30.
+525: Number 2 cannot be at (0,4); reason: discovered the number 2 at the same row at position (0,2); possiblities left: [5].
+526: Number 2 cannot be at (0,5); reason: discovered the number 2 at the same row at position (0,2); possiblities left: [3].
+527: Number 2 cannot be at (3,2); reason: discovered the number 2 at the same column at position (0,2); possiblities left: [4].
+528: Number 2 cannot be at (4,2); reason: discovered the number 2 at the same column at position (0,2); possiblities left: [9].
+529: Number 2 cannot be at (5,2); reason: discovered the number 2 at the same column at position (0,2); possiblities left: [7].
+530: Number 2 cannot be at (1,0); reason: discovered the number 2 at the same quadrant at position (0,2); possiblities left: [9].
+531: Number 9 cannot be at (1,7); reason: discovered the number 9 at the same row at position (1,0); possiblities left: [7].
+532: Number 9 cannot be at (1,8); reason: discovered the number 9 at the same row at position (1,0); possiblities left: [5].
+533: Number 9 cannot be at (3,0); reason: discovered the number 9 at the same column at position (1,0); possiblities left: [1].
+534: Number 9 cannot be at (4,0); reason: discovered the number 9 at the same column at position (1,0); possiblities left: [3].
+535: Number 9 cannot be at (5,0); reason: discovered the number 9 at the same column at position (1,0); possiblities left: [2].
+536: Number 1 cannot be at (1,1); reason: failed guess with reason: 2 possibilities at cell; discoveries: 31; possiblities left: [4].
+537: Discovered number 4 at position (1,1); reason: it is the last possibility for the cell; discoveries: 31.
+538: Number 4 cannot be at (1,5); reason: discovered the number 4 at the same row at position (1,1); possiblities left: [2].
+539: Number 4 cannot be at (1,7); reason: discovered the number 4 at the same row at position (1,1); possiblities left: [7].
+540: Number 4 cannot be at (1,8); reason: discovered the number 4 at the same row at position (1,1); possiblities left: [5].
+541: Number 4 cannot be at (0,1); reason: discovered the number 4 at the same column at position (1,1); possiblities left: [1].
+542: Number 4 cannot be at (7,1); reason: discovered the number 4 at the same column at position (1,1); possiblities left: [3].
+543: Discovered number 4 at position (7,0); reason: it is the last possibility for the row; discoveries: 32.
+544: Number 4 cannot be at (2,0); reason: discovered the number 4 at the same quadrant at position (1,1); possiblities left: [6].
+545: Number 3 cannot be at (7,0); reason: discovered number 4 in its place; possiblities left: [4].
+546: Number 6 cannot be at (7,0); reason: discovered number 4 in its place; possiblities left: [4].
+547: Number 7 cannot be at (7,0); reason: discovered number 4 in its place; possiblities left: [4].
+548: Discovered number 7 at position (7,8); reason: it is the last possibility for the row; discoveries: 33.
+549: Number 2 cannot be at (7,8); reason: discovered number 7 in its place; possiblities left: [7].
+550: Number 7 cannot be at (1,8); reason: discovered the number 7 at the same column at position (7,8); possiblities left: [5].
+551: Discovered number 7 at position (1,7); reason: it is the last possibility for the row; discoveries: 34.
+552: Number 7 cannot be at (8,8); reason: discovered the number 7 at the same column at position (7,8); possiblities left: [2].
+553: Number 7 cannot be at (8,7); reason: discovered the number 7 at the same quadrant at position (7,8); possiblities left: [5].
+554: Number 2 cannot be at (8,3); reason: row 7 definitely has this number in this quadrant; possiblities left: [3].
+555: Number 2 cannot be at (8,4); reason: row 7 definitely has this number in this quadrant; possiblities left: [1].
+556: Number 2 cannot be at (8,5); reason: row 7 definitely has this number in this quadrant; possiblities left: [8].
+557: Number 5 cannot be at (1,7); reason: discovered number 7 in its place; possiblities left: [7].
+558: Number 8 cannot be at (1,7); reason: discovered number 7 in its place; possiblities left: [7].
+559: Number 2 cannot be at (3,4); reason: column 3 definitely has this number in this quadrant; possiblities left: [3].
+560: Number 2 cannot be at (5,4); reason: column 3 definitely has this number in this quadrant; possiblities left: [6].
+561: Number 2 cannot be at (5,5); reason: column 3 definitely has this number in this quadrant; possiblities left: [9].
+562: Number 6 cannot be at (5,0); reason: naked combination along row 5 of numbers [6 8] at indexes [1 4] found at cell; possiblities left: [2].
+563: Number 6 cannot be at (5,2); reason: naked combination along row 5 of numbers [6 8] at indexes [1 4] found at cell; possiblities left: [7].
+564: Number 6 cannot be at (5,5); reason: naked combination along row 5 of numbers [6 8] at indexes [1 4] found at cell; possiblities left: [9].
+565: Number 8 cannot be at (5,5); reason: naked combination along row 5 of numbers [6 8] at indexes [1 4] found at cell; possiblities left: [9].
+566: Discovered number 9 at position (5,5); reason: it is the last possibility for the cell; discoveries: 35.
+567: Number 6 cannot be at (5,6); reason: naked combination along row 5 of numbers [9] at indexes [1 4] found at cell; possiblities left: [5].
+568: Number 8 cannot be at (5,6); reason: naked combination along row 5 of numbers [9] at indexes [5 8] found at cell; possiblities left: [5].
+569: Discovered number 5 at position (5,6); reason: it is the last possibility for the cell; discoveries: 36.
+570: Number 6 cannot be at (5,8); reason: naked combination along row 5 of numbers [9] at indexes [5 8] found at cell; possiblities left: [4].
+571: Number 9 cannot be at (5,2); reason: discovered the number 9 at the same row at position (5,5); possiblities left: [7].
+572: Number 9 cannot be at (5,8); reason: discovered the number 9 at the same row at position (5,5); possiblities left: [4].
+573: Number 9 cannot be at (6,5); reason: discovered the number 9 at the same column at position (5,5); possiblities left: [4].
+574: Discovered number 9 at position (6,3); reason: it is the last possibility for the row; discoveries: 37.
+575: Discovered number 4 at position (6,5); reason: it is the last possibility for the cell; discoveries: 38.
+576: Number 9 cannot be at (3,3); reason: discovered the number 9 at the same quadrant at position (5,5); possiblities left: [2].
+577: Number 9 cannot be at (4,3); reason: discovered the number 9 at the same quadrant at position (5,5); possiblities left: [8].
+578: Number 5 cannot be at (5,8); reason: discovered the number 5 at the same row at position (5,6); possiblities left: [4].
+579: Number 5 cannot be at (0,6); reason: discovered the number 5 at the same column at position (5,6); possiblities left: [6].
+580: Number 5 cannot be at (1,6); reason: discovered the number 5 at the same column at position (5,6); possiblities left: [1].
+581: Number 4 cannot be at (6,3); reason: discovered number 9 in its place; possiblities left: [9].
+582: Discovered number 4 at position (2,3); reason: it is the last possibility for the column; discoveries: 39.
+583: Number 4 cannot be at (0,5); reason: discovered the number 4 at the same column at position (6,5); possiblities left: [3].
+584: Number 4 cannot be at (2,5); reason: discovered the number 4 at the same column at position (6,5); possiblities left: [1].
+585: Number 4 cannot be at (2,7); reason: row 0 definitely has this number in this quadrant; possiblities left: [8].
+586: Discovered number 8 at position (2,7); reason: it is the last possibility for the cell; discoveries: 40.
+587: Number 4 cannot be at (2,8); reason: row 0 definitely has this number in this quadrant; possiblities left: [3].
+588: Number 6 cannot be at (7,4); reason: column 5 definitely has this number in this quadrant; possiblities left: [2].
+589: Number 6 cannot be at (8,4); reason: column 5 definitely has this number in this quadrant; possiblities left: [1].
+590: Number 3 cannot be at (2,3); reason: discovered number 4 in its place; possiblities left: [4].
+591: Number 8 cannot be at (2,3); reason: discovered number 4 in its place; possiblities left: [4].
+592: Number 8 cannot be at (2,5); reason: discovered the number 8 at the same row at position (2,7); possiblities left: [1].
+593: Number 8 cannot be at (3,7); reason: discovered the number 8 at the same column at position (2,7); possiblities left: [9].
+594: Number 8 cannot be at (4,7); reason: discovered the number 8 at the same column at position (2,7); possiblities left: [2].
+595: Discovered number 8 at position (3,6); reason: it is the last possibility for the quadrant; discoveries: 41.
+596: Number 8 cannot be at (1,6); reason: discovered the number 8 at the same quadrant at position (2,7); possiblities left: [1].
+597: Discovered number 1 at position (1,6); reason: it is the last possibility for the cell; discoveries: 42.
+598: Number 1 cannot be at (3,6); reason: discovered number 8 in its place; possiblities left: [8].
+599: Number 6 cannot be at (3,6); reason: discovered number 8 in its place; possiblities left: [8].
+600: Discovered number 6 at position (0,6); reason: it is the last possibility for the column; discoveries: 43.
+601: Number 8 cannot be at (3,3); reason: discovered the number 8 at the same row at position (3,6); possiblities left: [2].
+602: Number 8 cannot be at (3,4); reason: discovered the number 8 at the same row at position (3,6); possiblities left: [3].
+603: Number 1 cannot be at (0,8); reason: column 6 definitely has this number in this quadrant; possiblities left: [9].
+604: Number 1 cannot be at (1,8); reason: column 6 definitely has this number in this quadrant; possiblities left: [5].
+605: Discovered number 5 at position (1,8); reason: it is the last possibility for the cell; discoveries: 44.
+606: Number 1 cannot be at (2,8); reason: column 6 definitely has this number in this quadrant; possiblities left: [3].
+607: Number 6 cannot be at (0,8); reason: column 6 definitely has this number in this quadrant; possiblities left: [9].
+608: Number 6 cannot be at (2,8); reason: column 6 definitely has this number in this quadrant; possiblities left: [3].
+609: Discovered number 6 at position (2,0); reason: it is the last possibility for the row; discoveries: 45.
+610: Discovered number 3 at position (2,8); reason: it is the last possibility for the cell; discoveries: 46.
+611: Number 1 cannot be at (0,6); reason: discovered number 6 in its place; possiblities left: [6].
+612: Number 6 cannot be at (0,1); reason: discovered the number 6 at the same row at position (0,6); possiblities left: [1].
+613: Discovered number 1 at position (0,1); reason: it is the last possibility for the cell; discoveries: 47.
+614: Number 1 cannot be at (1,4); reason: discovered the number 1 at the same row at position (1,6); possiblities left: [8].
+615: Number 1 cannot be at (1,5); reason: discovered the number 1 at the same row at position (1,6); possiblities left: [2].
+616: Number 5 cannot be at (1,4); reason: discovered the number 5 at the same row at position (1,8); possiblities left: [8].
+617: Discovered number 5 at position (0,4); reason: it is the last possibility for the column; discoveries: 48.
+618: Number 5 cannot be at (0,8); reason: discovered the number 5 at the same column at position (1,8); possiblities left: [9].
+619: Number 5 cannot be at (8,8); reason: discovered the number 5 at the same column at position (1,8); possiblities left: [2].
+620: Discovered number 5 at position (8,7); reason: it is the last possibility for the row; discoveries: 49.
+621: Discovered number 2 at position (8,8); reason: it is the last possibility for the cell; discoveries: 50.
+622: Number 5 cannot be at (0,7); reason: discovered the number 5 at the same quadrant at position (1,8); possiblities left: [4].
+623: Number 1 cannot be at (2,0); reason: discovered number 6 in its place; possiblities left: [6].
+624: Discovered number 1 at position (2,5); reason: it is the last possibility for the row; discoveries: 51.
+625: Number 6 cannot be at (3,0); reason: discovered the number 6 at the same column at position (2,0); possiblities left: [1].
+626: Number 6 cannot be at (4,0); reason: discovered the number 6 at the same column at position (2,0); possiblities left: [3].
+627: Number 6 cannot be at (8,0); reason: discovered the number 6 at the same column at position (2,0); possiblities left: [7].
+628: Number 3 cannot be at (2,5); reason: discovered number 1 in its place; possiblities left: [1].
+629: Number 1 cannot be at (0,5); reason: discovered the number 1 at the same column at position (2,5); possiblities left: [3].
+630: Discovered number 3 at position (0,5); reason: it is the last possibility for the cell; discoveries: 52.
+631: Number 1 cannot be at (8,5); reason: discovered the number 1 at the same column at position (2,5); possiblities left: [8].
+632: Discovered number 1 at position (8,4); reason: it is the last possibility for the row; discoveries: 53.
+633: Number 1 cannot be at (0,4); reason: discovered the number 1 at the same quadrant at position (2,5); possiblities left: [5].
+634: Number 3 cannot be at (0,8); reason: discovered the number 3 at the same column at position (2,8); possiblities left: [9].
+635: Number 3 cannot be at (8,4); reason: discovered number 1 in its place; possiblities left: [1].
+636: Number 8 cannot be at (8,4); reason: discovered number 1 in its place; possiblities left: [1].
+637: Number 2 cannot be at (8,7); reason: discovered number 5 in its place; possiblities left: [5].
+638: Number 2 cannot be at (3,8); reason: discovered the number 2 at the same column at position (8,8); possiblities left: [6].
+639: Number 2 cannot be at (4,8); reason: discovered the number 2 at the same column at position (8,8); possiblities left: [1].
+640: Number 2 cannot be at (5,8); reason: discovered the number 2 at the same column at position (8,8); possiblities left: [4].
+641: Discovered number 2 at position (5,0); reason: it is the last possibility for the row; discoveries: 54.
+642: Discovered number 4 at position (5,8); reason: it is the last possibility for the cell; discoveries: 55.
+643: Number 1 cannot be at (4,1); reason: column 0 definitely has this number in this quadrant; possiblities left: [6].
+644: Number 2 cannot be at (3,0); reason: row 5 definitely has this number in this quadrant; possiblities left: [1].
+645: Number 2 cannot be at (4,0); reason: row 5 definitely has this number in this quadrant; possiblities left: [3].
+646: Number 3 cannot be at (0,4); reason: discovered number 5 in its place; possiblities left: [5].
+647: Number 3 cannot be at (7,5); reason: discovered the number 3 at the same column at position (0,5); possiblities left: [6].
+648: Number 3 cannot be at (8,5); reason: discovered the number 3 at the same column at position (0,5); possiblities left: [8].
+649: Number 7 cannot be at (5,0); reason: discovered number 2 in its place; possiblities left: [2].
+650: Discovered number 7 at position (5,2); reason: it is the last possibility for the row; discoveries: 56.
+651: Discovered number 7 at position (8,0); reason: it is the last possibility for the column; discoveries: 57.
+652: Number 4 cannot be at (5,2); reason: discovered number 7 in its place; possiblities left: [7].
+653: Discovered number 4 at position (3,2); reason: it is the last possibility for the column; discoveries: 58.
+654: Number 7 cannot be at (8,2); reason: discovered the number 7 at the same column at position (5,2); possiblities left: [6].
+655: Discovered number 6 at position (8,2); reason: it is the last possibility for the cell; discoveries: 59.
+656: Number 4 cannot be at (0,8); reason: discovered the number 4 at the same column at position (5,8); possiblities left: [9].
+657: Discovered number 4 at position (0,7); reason: it is the last possibility for the row; discoveries: 60.
+658: Discovered number 9 at position (0,8); reason: it is the last possibility for the cell; discoveries: 61.
+659: Number 4 cannot be at (3,8); reason: discovered the number 4 at the same column at position (5,8); possiblities left: [6].
+660: Number 4 cannot be at (3,7); reason: discovered the number 4 at the same quadrant at position (5,8); possiblities left: [9].
+661: Number 3 cannot be at (8,0); reason: discovered number 7 in its place; possiblities left: [7].
+662: Discovered number 3 at position (8,3); reason: it is the last possibility for the row; discoveries: 62.
+663: Discovered number 3 at position (7,1); reason: it is the last possibility for the quadrant; discoveries: 63.
+664: Number 6 cannot be at (8,5); reason: discovered the number 6 at the same row at position (8,2); possiblities left: [8].
+665: Discovered number 6 at position (7,5); reason: it is the last possibility for the column; discoveries: 64.
+666: Discovered number 8 at position (8,5); reason: it is the last possibility for the cell; discoveries: 65.
+667: Number 6 cannot be at (3,2); reason: discovered the number 6 at the same column at position (8,2); possiblities left: [4].
+668: Number 6 cannot be at (4,2); reason: discovered the number 6 at the same column at position (8,2); possiblities left: [9].
+669: Discovered number 9 at position (4,2); reason: it is the last possibility for the cell; discoveries: 66.
+670: Number 6 cannot be at (7,1); reason: discovered the number 6 at the same quadrant at position (8,2); possiblities left: [3].
+671: Number 8 cannot be at (8,3); reason: discovered number 3 in its place; possiblities left: [3].
+672: Discovered number 8 at position (4,3); reason: it is the last possibility for the column; discoveries: 67.
+673: Number 3 cannot be at (3,3); reason: discovered the number 3 at the same column at position (8,3); possiblities left: [2].
+674: Discovered number 2 at position (3,3); reason: it is the last possibility for the cell; discoveries: 68.
+675: Number 3 cannot be at (4,3); reason: discovered the number 3 at the same column at position (8,3); possiblities left: [8].
+676: Discovered number 3 at position (3,4); reason: it is the last possibility for the quadrant; discoveries: 69.
+677: Number 3 cannot be at (7,4); reason: discovered the number 3 at the same quadrant at position (8,3); possiblities left: [2].
+678: Discovered number 2 at position (7,4); reason: it is the last possibility for the cell; discoveries: 70.
+679: Number 8 cannot be at (1,5); reason: discovered the number 8 at the same column at position (8,5); possiblities left: [2].
+680: Discovered number 8 at position (1,4); reason: it is the last possibility for the row; discoveries: 71.
+681: Discovered number 2 at position (1,5); reason: it is the last possibility for the cell; discoveries: 72.
+682: Number 3 cannot be at (4,1); reason: column 0 definitely has this number in this quadrant; possiblities left: [6].
+683: Discovered number 3 at position (4,0); reason: it is the last possibility for the row; discoveries: 73.
+684: Number 8 cannot be at (5,4); reason: column 3 definitely has this number in this quadrant; possiblities left: [6].
+685: Discovered number 8 at position (5,1); reason: it is the last possibility for the row; discoveries: 74.
+686: Discovered number 6 at position (5,4); reason: it is the last possibility for the cell; discoveries: 75.
+687: Number 3 cannot be at (3,0); reason: row 4 definitely has this number in this quadrant; possiblities left: [1].
+688: Discovered number 1 at position (3,0); reason: it is the last possibility for the cell; discoveries: 76.
+689: Number 8 cannot be at (4,1); reason: row 5 definitely has this number in this quadrant; possiblities left: [6].
+690: Discovered number 6 at position (4,1); reason: it is the last possibility for the cell; discoveries: 77.
+691: Number 9 cannot be at (0,7); reason: discovered number 4 in its place; possiblities left: [4].
+692: Number 9 cannot be at (3,8); reason: discovered the number 9 at the same column at position (0,8); possiblities left: [6].
+693: Number 9 cannot be at (4,8); reason: discovered the number 9 at the same column at position (0,8); possiblities left: [1].
+694: Number 2 cannot be at (1,4); reason: discovered number 8 in its place; possiblities left: [8].
+695: Number 2 cannot be at (7,5); reason: discovered the number 2 at the same column at position (1,5); possiblities left: [6].
+696: Number 1 cannot be at (3,8); reason: discovered the number 1 at the same row at position (3,0); possiblities left: [6].
+697: Discovered number 1 at position (4,8); reason: it is the last possibility for the column; discoveries: 78.
+698: Discovered number 6 at position (3,8); reason: it is the last possibility for the cell; discoveries: 79.
+699: Number 1 cannot be at (4,0); reason: discovered the number 1 at the same column at position (3,0); possiblities left: [3].
+700: Number 9 cannot be at (3,2); reason: discovered number 4 in its place; possiblities left: [4].
+701: Discovered number 9 at position (3,7); reason: it is the last possibility for the row; discoveries: 80.
+702: Number 2 cannot be at (3,7); reason: discovered the number 2 at the same row at position (3,3); possiblities left: [9].
+703: Discovered number 2 at position (4,7); reason: it is the last possibility for the column; discoveries: 81.
+704: Number 2 cannot be at (4,3); reason: discovered the number 2 at the same column at position (3,3); possiblities left: [8].
+705: Number 6 cannot be at (3,4); reason: discovered number 3 in its place; possiblities left: [3].
+706: Number 9 cannot be at (4,7); reason: discovered the number 9 at the same column at position (3,7); possiblities left: [2].
+707: Number 6 cannot be at (4,8); reason: discovered the number 6 at the same column at position (3,8); possiblities left: [1].
+708: Number 6 cannot be at (5,1); reason: discovered the number 6 at the same column at position (4,1); possiblities left: [8].
+3 3
+8 1 2 7 5 3 6 4 9
+9 4 3 6 8 2 1 7 5
+6 7 5 4 9 1 2 8 3
+1 5 4 2 3 7 8 9 6
+3 6 9 8 4 5 7 2 1
+2 8 7 1 6 9 5 3 4
+5 2 1 9 7 4 3 6 8
+4 3 8 5 2 6 9 1 7
+7 9 6 3 1 8 4 5 2
+Instructions for case number 2:
+1: Number 1 cannot be at (0,2); reason: discovered number 5 in its place; possiblities left: [5].
+2: Number 2 cannot be at (0,2); reason: discovered number 5 in its place; possiblities left: [5].
+3: Number 3 cannot be at (0,2); reason: discovered number 5 in its place; possiblities left: [5].
+4: Number 4 cannot be at (0,2); reason: discovered number 5 in its place; possiblities left: [5].
+5: Number 6 cannot be at (0,2); reason: discovered number 5 in its place; possiblities left: [5].
+6: Number 7 cannot be at (0,2); reason: discovered number 5 in its place; possiblities left: [5].
+7: Number 8 cannot be at (0,2); reason: discovered number 5 in its place; possiblities left: [5].
+8: Number 9 cannot be at (0,2); reason: discovered number 5 in its place; possiblities left: [5].
+9: Number 5 cannot be at (0,0); reason: discovered the number 5 at the same row at position (0,2); possiblities left: [1].
+10: Number 5 cannot be at (0,1); reason: discovered the number 5 at the same row at position (0,2); possiblities left: [4].
+11: Number 5 cannot be at (0,3); reason: discovered the number 5 at the same row at position (0,2); possiblities left: [3].
+12: Number 5 cannot be at (0,4); reason: discovered the number 5 at the same row at position (0,2); possiblities left: [2].
+13: Number 5 cannot be at (0,5); reason: discovered the number 5 at the same row at position (0,2); possiblities left: [7].
+14: Number 5 cannot be at (0,6); reason: discovered the number 5 at the same row at position (0,2); possiblities left: [6].
+15: Number 5 cannot be at (0,7); reason: discovered the number 5 at the same row at position (0,2); possiblities left: [9].
+16: Number 5 cannot be at (0,8); reason: discovered the number 5 at the same row at position (0,2); possiblities left: [8].
+17: Number 5 cannot be at (1,2); reason: discovered the number 5 at the same column at position (0,2); possiblities left: [9].
+18: Number 5 cannot be at (2,2); reason: discovered the number 5 at the same column at position (0,2); possiblities left: [2].
+19: Number 5 cannot be at (3,2); reason: discovered the number 5 at the same column at position (0,2); possiblities left: [6].
+20: Number 5 cannot be at (4,2); reason: discovered the number 5 at the same column at position (0,2); possiblities left: [8].
+21: Number 5 cannot be at (5,2); reason: discovered the number 5 at the same column at position (0,2); possiblities left: [3].
+22: Number 5 cannot be at (6,2); reason: discovered the number 5 at the same column at position (0,2); possiblities left: [7].
+23: Number 5 cannot be at (7,2); reason: discovered the number 5 at the same column at position (0,2); possiblities left: [4].
+24: Number 5 cannot be at (8,2); reason: discovered the number 5 at the same column at position (0,2); possiblities left: [1].
+25: Number 5 cannot be at (1,0); reason: discovered the number 5 at the same quadrant at position (0,2); possiblities left: [8].
+26: Number 5 cannot be at (1,1); reason: discovered the number 5 at the same quadrant at position (0,2); possiblities left: [3].
+27: Number 5 cannot be at (2,0); reason: discovered the number 5 at the same quadrant at position (0,2); possiblities left: [6].
+28: Number 5 cannot be at (2,1); reason: discovered the number 5 at the same quadrant at position (0,2); possiblities left: [7].
+29: Number 1 cannot be at (0,3); reason: discovered number 3 in its place; possiblities left: [3].
+30: Number 2 cannot be at (0,3); reason: discovered number 3 in its place; possiblities left: [3].
+31: Number 4 cannot be at (0,3); reason: discovered number 3 in its place; possiblities left: [3].
+32: Number 6 cannot be at (0,3); reason: discovered number 3 in its place; possiblities left: [3].
+33: Number 7 cannot be at (0,3); reason: discovered number 3 in its place; possiblities left: [3].
+34: Number 8 cannot be at (0,3); reason: discovered number 3 in its place; possiblities left: [3].
+35: Number 9 cannot be at (0,3); reason: discovered number 3 in its place; possiblities left: [3].
+36: Number 3 cannot be at (0,0); reason: discovered the number 3 at the same row at position (0,3); possiblities left: [1].
+37: Number 3 cannot be at (0,1); reason: discovered the number 3 at the same row at position (0,3); possiblities left: [4].
+38: Number 3 cannot be at (0,4); reason: discovered the number 3 at the same row at position (0,3); possiblities left: [2].
+39: Number 3 cannot be at (0,5); reason: discovered the number 3 at the same row at position (0,3); possiblities left: [7].
+40: Number 3 cannot be at (0,6); reason: discovered the number 3 at the same row at position (0,3); possiblities left: [6].
+41: Number 3 cannot be at (0,7); reason: discovered the number 3 at the same row at position (0,3); possiblities left: [9].
+42: Number 3 cannot be at (0,8); reason: discovered the number 3 at the same row at position (0,3); possiblities left: [8].
+43: Number 3 cannot be at (1,3); reason: discovered the number 3 at the same column at position (0,3); possiblities left: [6].
+44: Number 3 cannot be at (2,3); reason: discovered the number 3 at the same column at position (0,3); possiblities left: [9].
+45: Number 3 cannot be at (3,3); reason: discovered the number 3 at the same column at position (0,3); possiblities left: [1].
+46: Number 3 cannot be at (4,3); reason: discovered the number 3 at the same column at position (0,3); possiblities left: [4].
+47: Number 3 cannot be at (5,3); reason: discovered the number 3 at the same column at position (0,3); possiblities left: [2].
+48: Number 3 cannot be at (6,3); reason: discovered the number 3 at the same column at position (0,3); possiblities left: [5].
+49: Number 3 cannot be at (7,3); reason: discovered the number 3 at the same column at position (0,3); possiblities left: [7].
+50: Number 3 cannot be at (8,3); reason: discovered the number 3 at the same column at position (0,3); possiblities left: [8].
+51: Number 3 cannot be at (1,4); reason: discovered the number 3 at the same quadrant at position (0,3); possiblities left: [5].
+52: Number 3 cannot be at (1,5); reason: discovered the number 3 at the same quadrant at position (0,3); possiblities left: [4].
+53: Number 3 cannot be at (2,4); reason: discovered the number 3 at the same quadrant at position (0,3); possiblities left: [1].
+54: Number 3 cannot be at (2,5); reason: discovered the number 3 at the same quadrant at position (0,3); possiblities left: [8].
+55: Number 1 cannot be at (1,0); reason: discovered number 8 in its place; possiblities left: [8].
+56: Number 2 cannot be at (1,0); reason: discovered number 8 in its place; possiblities left: [8].
+57: Number 3 cannot be at (1,0); reason: discovered number 8 in its place; possiblities left: [8].
+58: Number 4 cannot be at (1,0); reason: discovered number 8 in its place; possiblities left: [8].
+59: Number 6 cannot be at (1,0); reason: discovered number 8 in its place; possiblities left: [8].
+60: Number 7 cannot be at (1,0); reason: discovered number 8 in its place; possiblities left: [8].
+61: Number 9 cannot be at (1,0); reason: discovered number 8 in its place; possiblities left: [8].
+62: Number 8 cannot be at (1,1); reason: discovered the number 8 at the same row at position (1,0); possiblities left: [3].
+63: Number 8 cannot be at (1,2); reason: discovered the number 8 at the same row at position (1,0); possiblities left: [9].
+64: Number 8 cannot be at (1,3); reason: discovered the number 8 at the same row at position (1,0); possiblities left: [6].
+65: Number 8 cannot be at (1,4); reason: discovered the number 8 at the same row at position (1,0); possiblities left: [5].
+66: Number 8 cannot be at (1,5); reason: discovered the number 8 at the same row at position (1,0); possiblities left: [4].
+67: Number 8 cannot be at (1,6); reason: discovered the number 8 at the same row at position (1,0); possiblities left: [1].
+68: Number 8 cannot be at (1,7); reason: discovered the number 8 at the same row at position (1,0); possiblities left: [2].
+69: Number 8 cannot be at (1,8); reason: discovered the number 8 at the same row at position (1,0); possiblities left: [7].
+70: Number 8 cannot be at (0,0); reason: discovered the number 8 at the same column at position (1,0); possiblities left: [1].
+71: Number 8 cannot be at (2,0); reason: discovered the number 8 at the same column at position (1,0); possiblities left: [6].
+72: Number 8 cannot be at (3,0); reason: discovered the number 8 at the same column at position (1,0); possiblities left: [4].
+73: Number 8 cannot be at (4,0); reason: discovered the number 8 at the same column at position (1,0); possiblities left: [2].
+74: Number 8 cannot be at (5,0); reason: discovered the number 8 at the same column at position (1,0); possiblities left: [7].
+75: Number 8 cannot be at (6,0); reason: discovered the number 8 at the same column at position (1,0); possiblities left: [3].
+76: Number 8 cannot be at (7,0); reason: discovered the number 8 at the same column at position (1,0); possiblities left: [9].
+77: Number 8 cannot be at (8,0); reason: discovered the number 8 at the same column at position (1,0); possiblities left: [5].
+78: Number 8 cannot be at (0,1); reason: discovered the number 8 at the same quadrant at position (1,0); possiblities left: [4].
+79: Number 8 cannot be at (2,1); reason: discovered the number 8 at the same quadrant at position (1,0); possiblities left: [7].
+80: Number 8 cannot be at (2,2); reason: discovered the number 8 at the same quadrant at position (1,0); possiblities left: [2].
+81: Number 1 cannot be at (1,7); reason: discovered number 2 in its place; possiblities left: [2].
+82: Number 3 cannot be at (1,7); reason: discovered number 2 in its place; possiblities left: [2].
+83: Number 4 cannot be at (1,7); reason: discovered number 2 in its place; possiblities left: [2].
+84: Number 5 cannot be at (1,7); reason: discovered number 2 in its place; possiblities left: [2].
+85: Number 6 cannot be at (1,7); reason: discovered number 2 in its place; possiblities left: [2].
+86: Number 7 cannot be at (1,7); reason: discovered number 2 in its place; possiblities left: [2].
+87: Number 9 cannot be at (1,7); reason: discovered number 2 in its place; possiblities left: [2].
+88: Number 2 cannot be at (1,1); reason: discovered the number 2 at the same row at position (1,7); possiblities left: [3].
+89: Number 2 cannot be at (1,2); reason: discovered the number 2 at the same row at position (1,7); possiblities left: [9].
+90: Number 2 cannot be at (1,3); reason: discovered the number 2 at the same row at position (1,7); possiblities left: [6].
+91: Number 2 cannot be at (1,4); reason: discovered the number 2 at the same row at position (1,7); possiblities left: [5].
+92: Number 2 cannot be at (1,5); reason: discovered the number 2 at the same row at position (1,7); possiblities left: [4].
+93: Number 2 cannot be at (1,6); reason: discovered the number 2 at the same row at position (1,7); possiblities left: [1].
+94: Number 2 cannot be at (1,8); reason: discovered the number 2 at the same row at position (1,7); possiblities left: [7].
+95: Number 2 cannot be at (0,7); reason: discovered the number 2 at the same column at position (1,7); possiblities left: [9].
+96: Number 2 cannot be at (2,7); reason: discovered the number 2 at the same column at position (1,7); possiblities left: [4].
+97: Number 2 cannot be at (3,7); reason: discovered the number 2 at the same column at position (1,7); possiblities left: [7].
+98: Number 2 cannot be at (4,7); reason: discovered the number 2 at the same column at position (1,7); possiblities left: [5].
+99: Number 2 cannot be at (5,7); reason: discovered the number 2 at the same column at position (1,7); possiblities left: [8].
+100: Number 2 cannot be at (6,7); reason: discovered the number 2 at the same column at position (1,7); possiblities left: [1].
+101: Number 2 cannot be at (7,7); reason: discovered the number 2 at the same column at position (1,7); possiblities left: [3].
+102: Number 2 cannot be at (8,7); reason: discovered the number 2 at the same column at position (1,7); possiblities left: [6].
+103: Number 2 cannot be at (0,6); reason: discovered the number 2 at the same quadrant at position (1,7); possiblities left: [6].
+104: Number 2 cannot be at (0,8); reason: discovered the number 2 at the same quadrant at position (1,7); possiblities left: [8].
+105: Number 2 cannot be at (2,6); reason: discovered the number 2 at the same quadrant at position (1,7); possiblities left: [5].
+106: Number 2 cannot be at (2,8); reason: discovered the number 2 at the same quadrant at position (1,7); possiblities left: [3].
+107: Number 1 cannot be at (2,1); reason: discovered number 7 in its place; possiblities left: [7].
+108: Number 2 cannot be at (2,1); reason: discovered number 7 in its place; possiblities left: [7].
+109: Number 3 cannot be at (2,1); reason: discovered number 7 in its place; possiblities left: [7].
+110: Number 4 cannot be at (2,1); reason: discovered number 7 in its place; possiblities left: [7].
+111: Number 6 cannot be at (2,1); reason: discovered number 7 in its place; possiblities left: [7].
+112: Number 9 cannot be at (2,1); reason: discovered number 7 in its place; possiblities left: [7].
+113: Number 7 cannot be at (2,0); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [6].
+114: Number 7 cannot be at (2,2); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [2].
+115: Number 7 cannot be at (2,3); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [9].
+116: Number 7 cannot be at (2,4); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [1].
+117: Number 7 cannot be at (2,5); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [8].
+118: Number 7 cannot be at (2,6); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [5].
+119: Number 7 cannot be at (2,7); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [4].
+120: Number 7 cannot be at (2,8); reason: discovered the number 7 at the same row at position (2,1); possiblities left: [3].
+121: Number 7 cannot be at (0,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [4].
+122: Number 7 cannot be at (1,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [3].
+123: Number 7 cannot be at (3,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [9].
+124: Number 7 cannot be at (4,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [1].
+125: Number 7 cannot be at (5,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [5].
+126: Number 7 cannot be at (6,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [6].
+127: Number 7 cannot be at (7,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [8].
+128: Number 7 cannot be at (8,1); reason: discovered the number 7 at the same column at position (2,1); possiblities left: [2].
+129: Number 7 cannot be at (0,0); reason: discovered the number 7 at the same quadrant at position (2,1); possiblities left: [1].
+130: Number 7 cannot be at (1,2); reason: discovered the number 7 at the same quadrant at position (2,1); possiblities left: [9].
+131: Number 2 cannot be at (2,4); reason: discovered number 1 in its place; possiblities left: [1].
+132: Number 4 cannot be at (2,4); reason: discovered number 1 in its place; possiblities left: [1].
+133: Number 5 cannot be at (2,4); reason: discovered number 1 in its place; possiblities left: [1].
+134: Number 6 cannot be at (2,4); reason: discovered number 1 in its place; possiblities left: [1].
+135: Number 8 cannot be at (2,4); reason: discovered number 1 in its place; possiblities left: [1].
+136: Number 9 cannot be at (2,4); reason: discovered number 1 in its place; possiblities left: [1].
+137: Number 1 cannot be at (2,0); reason: discovered the number 1 at the same row at position (2,4); possiblities left: [6].
+138: Number 1 cannot be at (2,2); reason: discovered the number 1 at the same row at position (2,4); possiblities left: [2].
+139: Number 1 cannot be at (2,3); reason: discovered the number 1 at the same row at position (2,4); possiblities left: [9].
+140: Number 1 cannot be at (2,5); reason: discovered the number 1 at the same row at position (2,4); possiblities left: [8].
+141: Number 1 cannot be at (2,6); reason: discovered the number 1 at the same row at position (2,4); possiblities left: [5].
+142: Number 1 cannot be at (2,7); reason: discovered the number 1 at the same row at position (2,4); possiblities left: [4].
+143: Number 1 cannot be at (2,8); reason: discovered the number 1 at the same row at position (2,4); possiblities left: [3].
+144: Number 1 cannot be at (0,4); reason: discovered the number 1 at the same column at position (2,4); possiblities left: [2].
+145: Number 1 cannot be at (1,4); reason: discovered the number 1 at the same column at position (2,4); possiblities left: [5].
+146: Number 1 cannot be at (3,4); reason: discovered the number 1 at the same column at position (2,4); possiblities left: [8].
+147: Number 1 cannot be at (4,4); reason: discovered the number 1 at the same column at position (2,4); possiblities left: [7].
+148: Number 1 cannot be at (5,4); reason: discovered the number 1 at the same column at position (2,4); possiblities left: [9].
+149: Number 1 cannot be at (6,4); reason: discovered the number 1 at the same column at position (2,4); possiblities left: [4].
+150: Number 1 cannot be at (7,4); reason: discovered the number 1 at the same column at position (2,4); possiblities left: [6].
+151: Number 1 cannot be at (8,4); reason: discovered the number 1 at the same column at position (2,4); possiblities left: [3].
+152: Number 1 cannot be at (0,5); reason: discovered the number 1 at the same quadrant at position (2,4); possiblities left: [7].
+153: Number 1 cannot be at (1,3); reason: discovered the number 1 at the same quadrant at position (2,4); possiblities left: [6].
+154: Number 1 cannot be at (1,5); reason: discovered the number 1 at the same quadrant at position (2,4); possiblities left: [4].
+155: Number 3 cannot be at (2,6); reason: discovered number 5 in its place; possiblities left: [5].
+156: Number 4 cannot be at (2,6); reason: discovered number 5 in its place; possiblities left: [5].
+157: Number 6 cannot be at (2,6); reason: discovered number 5 in its place; possiblities left: [5].
+158: Number 8 cannot be at (2,6); reason: discovered number 5 in its place; possiblities left: [5].
+159: Number 9 cannot be at (2,6); reason: discovered number 5 in its place; possiblities left: [5].
+160: Number 5 cannot be at (2,3); reason: discovered the number 5 at the same row at position (2,6); possiblities left: [9].
+161: Number 5 cannot be at (2,5); reason: discovered the number 5 at the same row at position (2,6); possiblities left: [8].
+162: Number 5 cannot be at (2,7); reason: discovered the number 5 at the same row at position (2,6); possiblities left: [4].
+163: Number 5 cannot be at (2,8); reason: discovered the number 5 at the same row at position (2,6); possiblities left: [3].
+164: Number 5 cannot be at (1,6); reason: discovered the number 5 at the same column at position (2,6); possiblities left: [1].
+165: Number 5 cannot be at (3,6); reason: discovered the number 5 at the same column at position (2,6); possiblities left: [3].
+166: Number 5 cannot be at (4,6); reason: discovered the number 5 at the same column at position (2,6); possiblities left: [9].
+167: Number 5 cannot be at (5,6); reason: discovered the number 5 at the same column at position (2,6); possiblities left: [4].
+168: Number 5 cannot be at (6,6); reason: discovered the number 5 at the same column at position (2,6); possiblities left: [8].
+169: Number 5 cannot be at (7,6); reason: discovered the number 5 at the same column at position (2,6); possiblities left: [2].
+170: Number 5 cannot be at (8,6); reason: discovered the number 5 at the same column at position (2,6); possiblities left: [7].
+171: Number 5 cannot be at (1,8); reason: discovered the number 5 at the same quadrant at position (2,6); possiblities left: [7].
+172: Number 1 cannot be at (3,0); reason: discovered number 4 in its place; possiblities left: [4].
+173: Number 2 cannot be at (3,0); reason: discovered number 4 in its place; possiblities left: [4].
+174: Number 3 cannot be at (3,0); reason: discovered number 4 in its place; possiblities left: [4].
+175: Number 5 cannot be at (3,0); reason: discovered number 4 in its place; possiblities left: [4].
+176: Number 6 cannot be at (3,0); reason: discovered number 4 in its place; possiblities left: [4].
+177: Number 7 cannot be at (3,0); reason: discovered number 4 in its place; possiblities left: [4].
+178: Number 9 cannot be at (3,0); reason: discovered number 4 in its place; possiblities left: [4].
+179: Number 4 cannot be at (3,1); reason: discovered the number 4 at the same row at position (3,0); possiblities left: [9].
+180: Number 4 cannot be at (3,2); reason: discovered the number 4 at the same row at position (3,0); possiblities left: [6].
+181: Number 4 cannot be at (3,3); reason: discovered the number 4 at the same row at position (3,0); possiblities left: [1].
+182: Number 4 cannot be at (3,4); reason: discovered the number 4 at the same row at position (3,0); possiblities left: [8].
+183: Number 4 cannot be at (3,5); reason: discovered the number 4 at the same row at position (3,0); possiblities left: [5].
+184: Number 4 cannot be at (3,6); reason: discovered the number 4 at the same row at position (3,0); possiblities left: [3].
+185: Number 4 cannot be at (3,7); reason: discovered the number 4 at the same row at position (3,0); possiblities left: [7].
+186: Number 4 cannot be at (3,8); reason: discovered the number 4 at the same row at position (3,0); possiblities left: [2].
+187: Number 4 cannot be at (0,0); reason: discovered the number 4 at the same column at position (3,0); possiblities left: [1].
+188: Number 4 cannot be at (2,0); reason: discovered the number 4 at the same column at position (3,0); possiblities left: [6].
+189: Number 4 cannot be at (4,0); reason: discovered the number 4 at the same column at position (3,0); possiblities left: [2].
+190: Number 4 cannot be at (5,0); reason: discovered the number 4 at the same column at position (3,0); possiblities left: [7].
+191: Number 4 cannot be at (6,0); reason: discovered the number 4 at the same column at position (3,0); possiblities left: [3].
+192: Number 4 cannot be at (7,0); reason: discovered the number 4 at the same column at position (3,0); possiblities left: [9].
+193: Number 4 cannot be at (8,0); reason: discovered the number 4 at the same column at position (3,0); possiblities left: [5].
+194: Number 4 cannot be at (4,1); reason: discovered the number 4 at the same quadrant at position (3,0); possiblities left: [1].
+195: Number 4 cannot be at (4,2); reason: discovered the number 4 at the same quadrant at position (3,0); possiblities left: [8].
+196: Number 4 cannot be at (5,1); reason: discovered the number 4 at the same quadrant at position (3,0); possiblities left: [5].
+197: Number 4 cannot be at (5,2); reason: discovered the number 4 at the same quadrant at position (3,0); possiblities left: [3].
+198: Number 1 cannot be at (3,5); reason: discovered number 5 in its place; possiblities left: [5].
+199: Number 2 cannot be at (3,5); reason: discovered number 5 in its place; possiblities left: [5].
+200: Number 3 cannot be at (3,5); reason: discovered number 5 in its place; possiblities left: [5].
+201: Number 6 cannot be at (3,5); reason: discovered number 5 in its place; possiblities left: [5].
+202: Number 7 cannot be at (3,5); reason: discovered number 5 in its place; possiblities left: [5].
+203: Number 8 cannot be at (3,5); reason: discovered number 5 in its place; possiblities left: [5].
+204: Number 9 cannot be at (3,5); reason: discovered number 5 in its place; possiblities left: [5].
+205: Number 5 cannot be at (3,1); reason: discovered the number 5 at the same row at position (3,5); possiblities left: [9].
+206: Number 5 cannot be at (3,3); reason: discovered the number 5 at the same row at position (3,5); possiblities left: [1].
+207: Number 5 cannot be at (3,4); reason: discovered the number 5 at the same row at position (3,5); possiblities left: [8].
+208: Number 5 cannot be at (3,7); reason: discovered the number 5 at the same row at position (3,5); possiblities left: [7].
+209: Number 5 cannot be at (3,8); reason: discovered the number 5 at the same row at position (3,5); possiblities left: [2].
+210: Number 5 cannot be at (1,5); reason: discovered the number 5 at the same column at position (3,5); possiblities left: [4].
+211: Number 5 cannot be at (4,5); reason: discovered the number 5 at the same column at position (3,5); possiblities left: [3].
+212: Number 5 cannot be at (5,5); reason: discovered the number 5 at the same column at position (3,5); possiblities left: [6].
+213: Number 5 cannot be at (6,5); reason: discovered the number 5 at the same column at position (3,5); possiblities left: [2].
+214: Number 5 cannot be at (7,5); reason: discovered the number 5 at the same column at position (3,5); possiblities left: [1].
+215: Number 5 cannot be at (8,5); reason: discovered the number 5 at the same column at position (3,5); possiblities left: [9].
+216: Number 5 cannot be at (4,3); reason: discovered the number 5 at the same quadrant at position (3,5); possiblities left: [4].
+217: Number 5 cannot be at (4,4); reason: discovered the number 5 at the same quadrant at position (3,5); possiblities left: [7].
+218: Number 5 cannot be at (5,3); reason: discovered the number 5 at the same quadrant at position (3,5); possiblities left: [2].
+219: Number 5 cannot be at (5,4); reason: discovered the number 5 at the same quadrant at position (3,5); possiblities left: [9].
+220: Number 1 cannot be at (3,6); reason: discovered number 3 in its place; possiblities left: [3].
+221: Number 2 cannot be at (3,6); reason: discovered number 3 in its place; possiblities left: [3].
+222: Number 6 cannot be at (3,6); reason: discovered number 3 in its place; possiblities left: [3].
+223: Number 7 cannot be at (3,6); reason: discovered number 3 in its place; possiblities left: [3].
+224: Number 8 cannot be at (3,6); reason: discovered number 3 in its place; possiblities left: [3].
+225: Number 9 cannot be at (3,6); reason: discovered number 3 in its place; possiblities left: [3].
+226: Number 3 cannot be at (3,1); reason: discovered the number 3 at the same row at position (3,6); possiblities left: [9].
+227: Number 3 cannot be at (3,2); reason: discovered the number 3 at the same row at position (3,6); possiblities left: [6].
+228: Number 3 cannot be at (3,4); reason: discovered the number 3 at the same row at position (3,6); possiblities left: [8].
+229: Number 3 cannot be at (3,7); reason: discovered the number 3 at the same row at position (3,6); possiblities left: [7].
+230: Number 3 cannot be at (3,8); reason: discovered the number 3 at the same row at position (3,6); possiblities left: [2].
+231: Number 3 cannot be at (1,6); reason: discovered the number 3 at the same column at position (3,6); possiblities left: [1].
+232: Number 3 cannot be at (4,6); reason: discovered the number 3 at the same column at position (3,6); possiblities left: [9].
+233: Number 3 cannot be at (5,6); reason: discovered the number 3 at the same column at position (3,6); possiblities left: [4].
+234: Number 3 cannot be at (6,6); reason: discovered the number 3 at the same column at position (3,6); possiblities left: [8].
+235: Number 3 cannot be at (7,6); reason: discovered the number 3 at the same column at position (3,6); possiblities left: [2].
+236: Number 3 cannot be at (8,6); reason: discovered the number 3 at the same column at position (3,6); possiblities left: [7].
+237: Number 3 cannot be at (4,7); reason: discovered the number 3 at the same quadrant at position (3,6); possiblities left: [5].
+238: Number 3 cannot be at (4,8); reason: discovered the number 3 at the same quadrant at position (3,6); possiblities left: [6].
+239: Number 3 cannot be at (5,7); reason: discovered the number 3 at the same quadrant at position (3,6); possiblities left: [8].
+240: Number 3 cannot be at (5,8); reason: discovered the number 3 at the same quadrant at position (3,6); possiblities left: [1].
+241: Number 2 cannot be at (4,1); reason: discovered number 1 in its place; possiblities left: [1].
+242: Number 3 cannot be at (4,1); reason: discovered number 1 in its place; possiblities left: [1].
+243: Number 5 cannot be at (4,1); reason: discovered number 1 in its place; possiblities left: [1].
+244: Number 6 cannot be at (4,1); reason: discovered number 1 in its place; possiblities left: [1].
+245: Number 8 cannot be at (4,1); reason: discovered number 1 in its place; possiblities left: [1].
+246: Number 9 cannot be at (4,1); reason: discovered number 1 in its place; possiblities left: [1].
+247: Number 1 cannot be at (4,0); reason: discovered the number 1 at the same row at position (4,1); possiblities left: [2].
+248: Number 1 cannot be at (4,2); reason: discovered the number 1 at the same row at position (4,1); possiblities left: [8].
+249: Number 1 cannot be at (4,3); reason: discovered the number 1 at the same row at position (4,1); possiblities left: [4].
+250: Number 1 cannot be at (4,5); reason: discovered the number 1 at the same row at position (4,1); possiblities left: [3].
+251: Number 1 cannot be at (4,6); reason: discovered the number 1 at the same row at position (4,1); possiblities left: [9].
+252: Number 1 cannot be at (4,7); reason: discovered the number 1 at the same row at position (4,1); possiblities left: [5].
+253: Number 1 cannot be at (4,8); reason: discovered the number 1 at the same row at position (4,1); possiblities left: [6].
+254: Number 1 cannot be at (0,1); reason: discovered the number 1 at the same column at position (4,1); possiblities left: [4].
+255: Number 1 cannot be at (1,1); reason: discovered the number 1 at the same column at position (4,1); possiblities left: [3].
+256: Number 1 cannot be at (3,1); reason: discovered the number 1 at the same column at position (4,1); possiblities left: [9].
+257: Number 1 cannot be at (5,1); reason: discovered the number 1 at the same column at position (4,1); possiblities left: [5].
+258: Number 1 cannot be at (6,1); reason: discovered the number 1 at the same column at position (4,1); possiblities left: [6].
+259: Number 1 cannot be at (7,1); reason: discovered the number 1 at the same column at position (4,1); possiblities left: [8].
+260: Number 1 cannot be at (8,1); reason: discovered the number 1 at the same column at position (4,1); possiblities left: [2].
+261: Number 1 cannot be at (3,2); reason: discovered the number 1 at the same quadrant at position (4,1); possiblities left: [6].
+262: Number 1 cannot be at (5,0); reason: discovered the number 1 at the same quadrant at position (4,1); possiblities left: [7].
+263: Number 1 cannot be at (5,2); reason: discovered the number 1 at the same quadrant at position (4,1); possiblities left: [3].
+264: Number 2 cannot be at (4,4); reason: discovered number 7 in its place; possiblities left: [7].
+265: Number 3 cannot be at (4,4); reason: discovered number 7 in its place; possiblities left: [7].
+266: Number 4 cannot be at (4,4); reason: discovered number 7 in its place; possiblities left: [7].
+267: Number 6 cannot be at (4,4); reason: discovered number 7 in its place; possiblities left: [7].
+268: Number 8 cannot be at (4,4); reason: discovered number 7 in its place; possiblities left: [7].
+269: Number 9 cannot be at (4,4); reason: discovered number 7 in its place; possiblities left: [7].
+270: Number 7 cannot be at (4,0); reason: discovered the number 7 at the same row at position (4,4); possiblities left: [2].
+271: Number 7 cannot be at (4,2); reason: discovered the number 7 at the same row at position (4,4); possiblities left: [8].
+272: Number 7 cannot be at (4,3); reason: discovered the number 7 at the same row at position (4,4); possiblities left: [4].
+273: Number 7 cannot be at (4,5); reason: discovered the number 7 at the same row at position (4,4); possiblities left: [3].
+274: Number 7 cannot be at (4,6); reason: discovered the number 7 at the same row at position (4,4); possiblities left: [9].
+275: Number 7 cannot be at (4,7); reason: discovered the number 7 at the same row at position (4,4); possiblities left: [5].
+276: Number 7 cannot be at (4,8); reason: discovered the number 7 at the same row at position (4,4); possiblities left: [6].
+277: Number 7 cannot be at (0,4); reason: discovered the number 7 at the same column at position (4,4); possiblities left: [2].
+278: Number 7 cannot be at (1,4); reason: discovered the number 7 at the same column at position (4,4); possiblities left: [5].
+279: Number 7 cannot be at (3,4); reason: discovered the number 7 at the same column at position (4,4); possiblities left: [8].
+280: Number 7 cannot be at (5,4); reason: discovered the number 7 at the same column at position (4,4); possiblities left: [9].
+281: Number 7 cannot be at (6,4); reason: discovered the number 7 at the same column at position (4,4); possiblities left: [4].
+282: Number 7 cannot be at (7,4); reason: discovered the number 7 at the same column at position (4,4); possiblities left: [6].
+283: Number 7 cannot be at (8,4); reason: discovered the number 7 at the same column at position (4,4); possiblities left: [3].
+284: Number 7 cannot be at (3,3); reason: discovered the number 7 at the same quadrant at position (4,4); possiblities left: [1].
+285: Number 7 cannot be at (5,3); reason: discovered the number 7 at the same quadrant at position (4,4); possiblities left: [2].
+286: Number 7 cannot be at (5,5); reason: discovered the number 7 at the same quadrant at position (4,4); possiblities left: [6].
+287: Number 2 cannot be at (4,8); reason: discovered number 6 in its place; possiblities left: [6].
+288: Number 4 cannot be at (4,8); reason: discovered number 6 in its place; possiblities left: [6].
+289: Number 5 cannot be at (4,8); reason: discovered number 6 in its place; possiblities left: [6].
+290: Number 8 cannot be at (4,8); reason: discovered number 6 in its place; possiblities left: [6].
+291: Number 9 cannot be at (4,8); reason: discovered number 6 in its place; possiblities left: [6].
+292: Number 6 cannot be at (4,0); reason: discovered the number 6 at the same row at position (4,8); possiblities left: [2].
+293: Number 6 cannot be at (4,2); reason: discovered the number 6 at the same row at position (4,8); possiblities left: [8].
+294: Number 6 cannot be at (4,3); reason: discovered the number 6 at the same row at position (4,8); possiblities left: [4].
+295: Number 6 cannot be at (4,5); reason: discovered the number 6 at the same row at position (4,8); possiblities left: [3].
+296: Number 6 cannot be at (4,6); reason: discovered the number 6 at the same row at position (4,8); possiblities left: [9].
+297: Number 6 cannot be at (4,7); reason: discovered the number 6 at the same row at position (4,8); possiblities left: [5].
+298: Number 6 cannot be at (0,8); reason: discovered the number 6 at the same column at position (4,8); possiblities left: [8].
+299: Number 6 cannot be at (1,8); reason: discovered the number 6 at the same column at position (4,8); possiblities left: [7].
+300: Number 6 cannot be at (2,8); reason: discovered the number 6 at the same column at position (4,8); possiblities left: [3].
+301: Number 6 cannot be at (3,8); reason: discovered the number 6 at the same column at position (4,8); possiblities left: [2].
+302: Number 6 cannot be at (5,8); reason: discovered the number 6 at the same column at position (4,8); possiblities left: [1].
+303: Number 6 cannot be at (6,8); reason: discovered the number 6 at the same column at position (4,8); possiblities left: [9].
+304: Number 6 cannot be at (7,8); reason: discovered the number 6 at the same column at position (4,8); possiblities left: [5].
+305: Number 6 cannot be at (8,8); reason: discovered the number 6 at the same column at position (4,8); possiblities left: [4].
+306: Number 6 cannot be at (3,7); reason: discovered the number 6 at the same quadrant at position (4,8); possiblities left: [7].
+307: Number 6 cannot be at (5,6); reason: discovered the number 6 at the same quadrant at position (4,8); possiblities left: [4].
+308: Number 6 cannot be at (5,7); reason: discovered the number 6 at the same quadrant at position (4,8); possiblities left: [8].
+309: Number 2 cannot be at (5,2); reason: discovered number 3 in its place; possiblities left: [3].
+310: Number 6 cannot be at (5,2); reason: discovered number 3 in its place; possiblities left: [3].
+311: Number 7 cannot be at (5,2); reason: discovered number 3 in its place; possiblities left: [3].
+312: Number 8 cannot be at (5,2); reason: discovered number 3 in its place; possiblities left: [3].
+313: Number 9 cannot be at (5,2); reason: discovered number 3 in its place; possiblities left: [3].
+314: Number 3 cannot be at (5,0); reason: discovered the number 3 at the same row at position (5,2); possiblities left: [7].
+315: Number 3 cannot be at (5,1); reason: discovered the number 3 at the same row at position (5,2); possiblities left: [5].
+316: Number 3 cannot be at (5,4); reason: discovered the number 3 at the same row at position (5,2); possiblities left: [9].
+317: Number 3 cannot be at (5,5); reason: discovered the number 3 at the same row at position (5,2); possiblities left: [6].
+318: Discovered number 3 at position (4,5); reason: it is the last possibility for the quadrant; discoveries: 24.
+319: Number 3 cannot be at (1,2); reason: discovered the number 3 at the same column at position (5,2); possiblities left: [9].
+320: Number 3 cannot be at (2,2); reason: discovered the number 3 at the same column at position (5,2); possiblities left: [2].
+321: Number 3 cannot be at (4,2); reason: discovered the number 3 at the same column at position (5,2); possiblities left: [8].
+322: Number 3 cannot be at (6,2); reason: discovered the number 3 at the same column at position (5,2); possiblities left: [7].
+323: Number 3 cannot be at (7,2); reason: discovered the number 3 at the same column at position (5,2); possiblities left: [4].
+324: Number 3 cannot be at (8,2); reason: discovered the number 3 at the same column at position (5,2); possiblities left: [1].
+325: Number 3 cannot be at (4,0); reason: discovered the number 3 at the same quadrant at position (5,2); possiblities left: [2].
+326: Number 1 cannot be at (5,3); reason: discovered number 2 in its place; possiblities left: [2].
+327: Number 4 cannot be at (5,3); reason: discovered number 2 in its place; possiblities left: [2].
+328: Number 6 cannot be at (5,3); reason: discovered number 2 in its place; possiblities left: [2].
+329: Number 8 cannot be at (5,3); reason: discovered number 2 in its place; possiblities left: [2].
+330: Number 9 cannot be at (5,3); reason: discovered number 2 in its place; possiblities left: [2].
+331: Number 2 cannot be at (5,0); reason: discovered the number 2 at the same row at position (5,3); possiblities left: [7].
+332: Number 2 cannot be at (5,1); reason: discovered the number 2 at the same row at position (5,3); possiblities left: [5].
+333: Number 2 cannot be at (5,4); reason: discovered the number 2 at the same row at position (5,3); possiblities left: [9].
+334: Number 2 cannot be at (5,5); reason: discovered the number 2 at the same row at position (5,3); possiblities left: [6].
+335: Number 2 cannot be at (5,6); reason: discovered the number 2 at the same row at position (5,3); possiblities left: [4].
+336: Number 2 cannot be at (5,8); reason: discovered the number 2 at the same row at position (5,3); possiblities left: [1].
+337: Number 2 cannot be at (2,3); reason: discovered the number 2 at the same column at position (5,3); possiblities left: [9].
+338: Number 2 cannot be at (3,3); reason: discovered the number 2 at the same column at position (5,3); possiblities left: [1].
+339: Number 2 cannot be at (4,3); reason: discovered the number 2 at the same column at position (5,3); possiblities left: [4].
+340: Number 2 cannot be at (6,3); reason: discovered the number 2 at the same column at position (5,3); possiblities left: [5].
+341: Number 2 cannot be at (7,3); reason: discovered the number 2 at the same column at position (5,3); possiblities left: [7].
+342: Number 2 cannot be at (8,3); reason: discovered the number 2 at the same column at position (5,3); possiblities left: [8].
+343: Number 2 cannot be at (3,4); reason: discovered the number 2 at the same quadrant at position (5,3); possiblities left: [8].
+344: Number 2 cannot be at (4,5); reason: discovered the number 2 at the same quadrant at position (5,3); possiblities left: [3].
+345: Number 1 cannot be at (5,7); reason: discovered number 8 in its place; possiblities left: [8].
+346: Number 4 cannot be at (5,7); reason: discovered number 8 in its place; possiblities left: [8].
+347: Number 5 cannot be at (5,7); reason: discovered number 8 in its place; possiblities left: [8].
+348: Number 7 cannot be at (5,7); reason: discovered number 8 in its place; possiblities left: [8].
+349: Number 9 cannot be at (5,7); reason: discovered number 8 in its place; possiblities left: [8].
+350: Number 8 cannot be at (5,1); reason: discovered the number 8 at the same row at position (5,7); possiblities left: [5].
+351: Number 8 cannot be at (5,4); reason: discovered the number 8 at the same row at position (5,7); possiblities left: [9].
+352: Number 8 cannot be at (5,5); reason: discovered the number 8 at the same row at position (5,7); possiblities left: [6].
+353: Number 8 cannot be at (5,6); reason: discovered the number 8 at the same row at position (5,7); possiblities left: [4].
+354: Number 8 cannot be at (5,8); reason: discovered the number 8 at the same row at position (5,7); possiblities left: [1].
+355: Number 8 cannot be at (0,7); reason: discovered the number 8 at the same column at position (5,7); possiblities left: [9].
+356: Number 8 cannot be at (2,7); reason: discovered the number 8 at the same column at position (5,7); possiblities left: [4].
+357: Number 8 cannot be at (3,7); reason: discovered the number 8 at the same column at position (5,7); possiblities left: [7].
+358: Number 8 cannot be at (4,7); reason: discovered the number 8 at the same column at position (5,7); possiblities left: [5].
+359: Number 8 cannot be at (6,7); reason: discovered the number 8 at the same column at position (5,7); possiblities left: [1].
+360: Number 8 cannot be at (7,7); reason: discovered the number 8 at the same column at position (5,7); possiblities left: [3].
+361: Number 8 cannot be at (8,7); reason: discovered the number 8 at the same column at position (5,7); possiblities left: [6].
+362: Number 8 cannot be at (3,8); reason: discovered the number 8 at the same quadrant at position (5,7); possiblities left: [2].
+363: Number 8 cannot be at (4,6); reason: discovered the number 8 at the same quadrant at position (5,7); possiblities left: [9].
+364: Number 2 cannot be at (6,1); reason: discovered number 6 in its place; possiblities left: [6].
+365: Number 3 cannot be at (6,1); reason: discovered number 6 in its place; possiblities left: [6].
+366: Number 4 cannot be at (6,1); reason: discovered number 6 in its place; possiblities left: [6].
+367: Number 5 cannot be at (6,1); reason: discovered number 6 in its place; possiblities left: [6].
+368: Number 8 cannot be at (6,1); reason: discovered number 6 in its place; possiblities left: [6].
+369: Number 9 cannot be at (6,1); reason: discovered number 6 in its place; possiblities left: [6].
+370: Number 6 cannot be at (6,0); reason: discovered the number 6 at the same row at position (6,1); possiblities left: [3].
+371: Number 6 cannot be at (6,2); reason: discovered the number 6 at the same row at position (6,1); possiblities left: [7].
+372: Number 6 cannot be at (6,3); reason: discovered the number 6 at the same row at position (6,1); possiblities left: [5].
+373: Number 6 cannot be at (6,4); reason: discovered the number 6 at the same row at position (6,1); possiblities left: [4].
+374: Number 6 cannot be at (6,5); reason: discovered the number 6 at the same row at position (6,1); possiblities left: [2].
+375: Number 6 cannot be at (6,6); reason: discovered the number 6 at the same row at position (6,1); possiblities left: [8].
+376: Number 6 cannot be at (6,7); reason: discovered the number 6 at the same row at position (6,1); possiblities left: [1].
+377: Number 6 cannot be at (0,1); reason: discovered the number 6 at the same column at position (6,1); possiblities left: [4].
+378: Number 6 cannot be at (1,1); reason: discovered the number 6 at the same column at position (6,1); possiblities left: [3].
+379: Number 6 cannot be at (3,1); reason: discovered the number 6 at the same column at position (6,1); possiblities left: [9].
+380: Number 6 cannot be at (5,1); reason: discovered the number 6 at the same column at position (6,1); possiblities left: [5].
+381: Number 6 cannot be at (7,1); reason: discovered the number 6 at the same column at position (6,1); possiblities left: [8].
+382: Number 6 cannot be at (8,1); reason: discovered the number 6 at the same column at position (6,1); possiblities left: [2].
+383: Number 6 cannot be at (7,0); reason: discovered the number 6 at the same quadrant at position (6,1); possiblities left: [9].
+384: Number 6 cannot be at (7,2); reason: discovered the number 6 at the same quadrant at position (6,1); possiblities left: [4].
+385: Number 6 cannot be at (8,0); reason: discovered the number 6 at the same quadrant at position (6,1); possiblities left: [5].
+386: Number 6 cannot be at (8,2); reason: discovered the number 6 at the same quadrant at position (6,1); possiblities left: [1].
+387: Number 1 cannot be at (6,3); reason: discovered number 5 in its place; possiblities left: [5].
+388: Number 4 cannot be at (6,3); reason: discovered number 5 in its place; possiblities left: [5].
+389: Number 7 cannot be at (6,3); reason: discovered number 5 in its place; possiblities left: [5].
+390: Number 8 cannot be at (6,3); reason: discovered number 5 in its place; possiblities left: [5].
+391: Number 9 cannot be at (6,3); reason: discovered number 5 in its place; possiblities left: [5].
+392: Number 5 cannot be at (6,0); reason: discovered the number 5 at the same row at position (6,3); possiblities left: [3].
+393: Number 5 cannot be at (6,4); reason: discovered the number 5 at the same row at position (6,3); possiblities left: [4].
+394: Number 5 cannot be at (6,7); reason: discovered the number 5 at the same row at position (6,3); possiblities left: [1].
+395: Number 5 cannot be at (6,8); reason: discovered the number 5 at the same row at position (6,3); possiblities left: [9].
+396: Number 5 cannot be at (1,3); reason: discovered the number 5 at the same column at position (6,3); possiblities left: [6].
+397: Discovered number 5 at position (1,4); reason: it is the last possibility for the row; discoveries: 25.
+398: Number 5 cannot be at (7,3); reason: discovered the number 5 at the same column at position (6,3); possiblities left: [7].
+399: Number 5 cannot be at (8,3); reason: discovered the number 5 at the same column at position (6,3); possiblities left: [8].
+400: Number 5 cannot be at (7,4); reason: discovered the number 5 at the same quadrant at position (6,3); possiblities left: [6].
+401: Number 5 cannot be at (8,4); reason: discovered the number 5 at the same quadrant at position (6,3); possiblities left: [3].
+402: Number 1 cannot be at (6,8); reason: discovered number 9 in its place; possiblities left: [9].
+403: Number 2 cannot be at (6,8); reason: discovered number 9 in its place; possiblities left: [9].
+404: Number 3 cannot be at (6,8); reason: discovered number 9 in its place; possiblities left: [9].
+405: Number 4 cannot be at (6,8); reason: discovered number 9 in its place; possiblities left: [9].
+406: Number 7 cannot be at (6,8); reason: discovered number 9 in its place; possiblities left: [9].
+407: Number 8 cannot be at (6,8); reason: discovered number 9 in its place; possiblities left: [9].
+408: Number 9 cannot be at (6,0); reason: discovered the number 9 at the same row at position (6,8); possiblities left: [3].
+409: Number 9 cannot be at (6,2); reason: discovered the number 9 at the same row at position (6,8); possiblities left: [7].
+410: Number 9 cannot be at (6,4); reason: discovered the number 9 at the same row at position (6,8); possiblities left: [4].
+411: Number 9 cannot be at (6,5); reason: discovered the number 9 at the same row at position (6,8); possiblities left: [2].
+412: Number 9 cannot be at (6,6); reason: discovered the number 9 at the same row at position (6,8); possiblities left: [8].
+413: Number 9 cannot be at (6,7); reason: discovered the number 9 at the same row at position (6,8); possiblities left: [1].
+414: Number 9 cannot be at (0,8); reason: discovered the number 9 at the same column at position (6,8); possiblities left: [8].
+415: Number 9 cannot be at (1,8); reason: discovered the number 9 at the same column at position (6,8); possiblities left: [7].
+416: Number 9 cannot be at (2,8); reason: discovered the number 9 at the same column at position (6,8); possiblities left: [3].
+417: Number 9 cannot be at (3,8); reason: discovered the number 9 at the same column at position (6,8); possiblities left: [2].
+418: Number 9 cannot be at (5,8); reason: discovered the number 9 at the same column at position (6,8); possiblities left: [1].
+419: Number 9 cannot be at (7,8); reason: discovered the number 9 at the same column at position (6,8); possiblities left: [5].
+420: Number 9 cannot be at (8,8); reason: discovered the number 9 at the same column at position (6,8); possiblities left: [4].
+421: Number 9 cannot be at (7,6); reason: discovered the number 9 at the same quadrant at position (6,8); possiblities left: [2].
+422: Number 9 cannot be at (7,7); reason: discovered the number 9 at the same quadrant at position (6,8); possiblities left: [3].
+423: Number 9 cannot be at (8,6); reason: discovered the number 9 at the same quadrant at position (6,8); possiblities left: [7].
+424: Number 9 cannot be at (8,7); reason: discovered the number 9 at the same quadrant at position (6,8); possiblities left: [6].
+425: Number 1 cannot be at (7,2); reason: discovered number 4 in its place; possiblities left: [4].
+426: Number 2 cannot be at (7,2); reason: discovered number 4 in its place; possiblities left: [4].
+427: Number 7 cannot be at (7,2); reason: discovered number 4 in its place; possiblities left: [4].
+428: Number 8 cannot be at (7,2); reason: discovered number 4 in its place; possiblities left: [4].
+429: Number 9 cannot be at (7,2); reason: discovered number 4 in its place; possiblities left: [4].
+430: Number 4 cannot be at (7,1); reason: discovered the number 4 at the same row at position (7,2); possiblities left: [8].
+431: Number 4 cannot be at (7,3); reason: discovered the number 4 at the same row at position (7,2); possiblities left: [7].
+432: Number 4 cannot be at (7,4); reason: discovered the number 4 at the same row at position (7,2); possiblities left: [6].
+433: Number 4 cannot be at (7,5); reason: discovered the number 4 at the same row at position (7,2); possiblities left: [1].
+434: Number 4 cannot be at (7,6); reason: discovered the number 4 at the same row at position (7,2); possiblities left: [2].
+435: Number 4 cannot be at (7,7); reason: discovered the number 4 at the same row at position (7,2); possiblities left: [3].
+436: Number 4 cannot be at (7,8); reason: discovered the number 4 at the same row at position (7,2); possiblities left: [5].
+437: Number 4 cannot be at (1,2); reason: discovered the number 4 at the same column at position (7,2); possiblities left: [9].
+438: Number 4 cannot be at (2,2); reason: discovered the number 4 at the same column at position (7,2); possiblities left: [2].
+439: Number 4 cannot be at (6,2); reason: discovered the number 4 at the same column at position (7,2); possiblities left: [7].
+440: Number 4 cannot be at (8,2); reason: discovered the number 4 at the same column at position (7,2); possiblities left: [1].
+441: Number 4 cannot be at (8,1); reason: discovered the number 4 at the same quadrant at position (7,2); possiblities left: [2].
+442: Number 1 cannot be at (7,7); reason: discovered number 3 in its place; possiblities left: [3].
+443: Number 5 cannot be at (7,7); reason: discovered number 3 in its place; possiblities left: [3].
+444: Number 6 cannot be at (7,7); reason: discovered number 3 in its place; possiblities left: [3].
+445: Number 7 cannot be at (7,7); reason: discovered number 3 in its place; possiblities left: [3].
+446: Number 3 cannot be at (7,0); reason: discovered the number 3 at the same row at position (7,7); possiblities left: [9].
+447: Number 3 cannot be at (7,1); reason: discovered the number 3 at the same row at position (7,7); possiblities left: [8].
+448: Number 3 cannot be at (7,4); reason: discovered the number 3 at the same row at position (7,7); possiblities left: [6].
+449: Number 3 cannot be at (7,5); reason: discovered the number 3 at the same row at position (7,7); possiblities left: [1].
+450: Number 3 cannot be at (7,8); reason: discovered the number 3 at the same row at position (7,7); possiblities left: [5].
+451: Number 3 cannot be at (2,7); reason: discovered the number 3 at the same column at position (7,7); possiblities left: [4].
+452: Number 3 cannot be at (6,7); reason: discovered the number 3 at the same column at position (7,7); possiblities left: [1].
+453: Number 3 cannot be at (8,7); reason: discovered the number 3 at the same column at position (7,7); possiblities left: [6].
+454: Number 3 cannot be at (8,8); reason: discovered the number 3 at the same quadrant at position (7,7); possiblities left: [4].
+455: Number 1 cannot be at (8,5); reason: discovered number 9 in its place; possiblities left: [9].
+456: Number 2 cannot be at (8,5); reason: discovered number 9 in its place; possiblities left: [9].
+457: Number 3 cannot be at (8,5); reason: discovered number 9 in its place; possiblities left: [9].
+458: Number 4 cannot be at (8,5); reason: discovered number 9 in its place; possiblities left: [9].
+459: Number 6 cannot be at (8,5); reason: discovered number 9 in its place; possiblities left: [9].
+460: Number 7 cannot be at (8,5); reason: discovered number 9 in its place; possiblities left: [9].
+461: Number 8 cannot be at (8,5); reason: discovered number 9 in its place; possiblities left: [9].
+462: Number 9 cannot be at (8,0); reason: discovered the number 9 at the same row at position (8,5); possiblities left: [5].
+463: Number 9 cannot be at (8,1); reason: discovered the number 9 at the same row at position (8,5); possiblities left: [2].
+464: Number 9 cannot be at (8,2); reason: discovered the number 9 at the same row at position (8,5); possiblities left: [1].
+465: Number 9 cannot be at (8,3); reason: discovered the number 9 at the same row at position (8,5); possiblities left: [8].
+466: Number 9 cannot be at (8,4); reason: discovered the number 9 at the same row at position (8,5); possiblities left: [3].
+467: Number 9 cannot be at (0,5); reason: discovered the number 9 at the same column at position (8,5); possiblities left: [7].
+468: Number 9 cannot be at (1,5); reason: discovered the number 9 at the same column at position (8,5); possiblities left: [4].
+469: Number 9 cannot be at (2,5); reason: discovered the number 9 at the same column at position (8,5); possiblities left: [8].
+470: Number 9 cannot be at (4,5); reason: discovered the number 9 at the same column at position (8,5); possiblities left: [3].
+471: Number 9 cannot be at (5,5); reason: discovered the number 9 at the same column at position (8,5); possiblities left: [6].
+472: Number 9 cannot be at (7,5); reason: discovered the number 9 at the same column at position (8,5); possiblities left: [1].
+473: Number 9 cannot be at (7,3); reason: discovered the number 9 at the same quadrant at position (8,5); possiblities left: [7].
+474: Number 9 cannot be at (7,4); reason: discovered the number 9 at the same quadrant at position (8,5); possiblities left: [6].
+475: Number 1 cannot be at (8,6); reason: discovered number 7 in its place; possiblities left: [7].
+476: Number 2 cannot be at (8,6); reason: discovered number 7 in its place; possiblities left: [7].
+477: Number 4 cannot be at (8,6); reason: discovered number 7 in its place; possiblities left: [7].
+478: Number 6 cannot be at (8,6); reason: discovered number 7 in its place; possiblities left: [7].
+479: Number 8 cannot be at (8,6); reason: discovered number 7 in its place; possiblities left: [7].
+480: Number 7 cannot be at (8,0); reason: discovered the number 7 at the same row at position (8,6); possiblities left: [5].
+481: Number 7 cannot be at (8,2); reason: discovered the number 7 at the same row at position (8,6); possiblities left: [1].
+482: Number 7 cannot be at (8,3); reason: discovered the number 7 at the same row at position (8,6); possiblities left: [8].
+483: Number 7 cannot be at (8,7); reason: discovered the number 7 at the same row at position (8,6); possiblities left: [6].
+484: Number 7 cannot be at (8,8); reason: discovered the number 7 at the same row at position (8,6); possiblities left: [4].
+485: Number 7 cannot be at (0,6); reason: discovered the number 7 at the same column at position (8,6); possiblities left: [6].
+486: Number 7 cannot be at (1,6); reason: discovered the number 7 at the same column at position (8,6); possiblities left: [1].
+487: Number 7 cannot be at (5,6); reason: discovered the number 7 at the same column at position (8,6); possiblities left: [4].
+488: Number 7 cannot be at (6,6); reason: discovered the number 7 at the same column at position (8,6); possiblities left: [8].
+489: Number 7 cannot be at (7,6); reason: discovered the number 7 at the same column at position (8,6); possiblities left: [2].
+490: Number 7 cannot be at (6,7); reason: discovered the number 7 at the same quadrant at position (8,6); possiblities left: [1].
+491: Number 7 cannot be at (7,8); reason: discovered the number 7 at the same quadrant at position (8,6); possiblities left: [5].
+492: Number 3 cannot be at (6,5); reason: column 4 definitely has this number in this quadrant; possiblities left: [2].
+493: Number 4 cannot be at (1,4); reason: discovered number 5 in its place; possiblities left: [5].
+494: Number 6 cannot be at (1,4); reason: discovered number 5 in its place; possiblities left: [5].
+495: Number 9 cannot be at (1,4); reason: discovered number 5 in its place; possiblities left: [5].
+496: Number 4 cannot be at (4,5); reason: discovered number 3 in its place; possiblities left: [3].
+497: Number 8 cannot be at (4,5); reason: discovered number 3 in its place; possiblities left: [3].
+498: Number 2 cannot be at (3,2); reason: hidden combination along quadrant 0 of numbers [6 7] at indexes [2 6] found at cell; possiblities left: [6].
+499: Number 8 cannot be at (3,2); reason: hidden combination along quadrant 0 of numbers [6 7] at indexes [2 6] found at cell; possiblities left: [6].
+500: Number 9 cannot be at (3,2); reason: hidden combination along quadrant 0 of numbers [6 7] at indexes [2 6] found at cell; possiblities left: [6].
+501: Number 5 cannot be at (5,0); reason: hidden combination along quadrant 0 of numbers [6 7] at indexes [2 6] found at cell; possiblities left: [7].
+502: Number 9 cannot be at (5,0); reason: hidden combination along quadrant 0 of numbers [6 7 9] at indexes [2 6] found at cell; possiblities left: [7].
+503: Discovered number 6 at position (3,2); reason: guess with reason: 2 possibilities at cell; discoveries: 26.
+504: Number 7 cannot be at (3,2); reason: discovered number 6 in its place; possiblities left: [6].
+505: Discovered number 7 at position (6,2); reason: it is the last possibility for the column; discoveries: 27.
+506: Discovered number 7 at position (5,0); reason: it is the last possibility for the quadrant; discoveries: 28.
+507: Number 6 cannot be at (3,3); reason: discovered the number 6 at the same row at position (3,2); possiblities left: [1].
+508: Number 6 cannot be at (3,4); reason: discovered the number 6 at the same row at position (3,2); possiblities left: [8].
+509: Number 6 cannot be at (1,2); reason: discovered the number 6 at the same column at position (3,2); possiblities left: [9].
+510: Number 6 cannot be at (2,2); reason: discovered the number 6 at the same column at position (3,2); possiblities left: [2].
+511: Number 6 cannot be at (5,0); reason: discovered the number 6 at the same quadrant at position (3,2); possiblities left: [7].
+512: Number 7 cannot be at (5,8); reason: discovered the number 7 at the same row at position (5,0); possiblities left: [1].
+513: Number 7 cannot be at (6,0); reason: discovered the number 7 at the same column at position (5,0); possiblities left: [3].
+514: Number 7 cannot be at (7,0); reason: discovered the number 7 at the same column at position (5,0); possiblities left: [9].
+515: Number 1 cannot be at (6,2); reason: discovered number 7 in its place; possiblities left: [7].
+516: Number 2 cannot be at (6,2); reason: discovered number 7 in its place; possiblities left: [7].
+517: Number 8 cannot be at (6,2); reason: discovered number 7 in its place; possiblities left: [7].
+518: Number 7 cannot be at (6,5); reason: discovered the number 7 at the same row at position (6,2); possiblities left: [2].
+519: Number 1 cannot be at (1,2); reason: failed guess with reason: 2 possibilities at cell; discoveries: 29; possiblities left: [9].
+520: Discovered number 1 at position (8,2); reason: it is the last possibility for the column; discoveries: 29.
+521: Discovered number 1 at position (0,0); reason: it is the last possibility for the quadrant; discoveries: 30.
+522: Discovered number 9 at position (1,2); reason: it is the last possibility for the cell; discoveries: 31.
+523: Number 2 cannot be at (0,0); reason: discovered number 1 in its place; possiblities left: [1].
+524: Number 6 cannot be at (0,0); reason: discovered number 1 in its place; possiblities left: [1].
+525: Discovered number 6 at position (2,0); reason: it is the last possibility for the column; discoveries: 32.
+526: Number 9 cannot be at (0,0); reason: discovered number 1 in its place; possiblities left: [1].
+527: Number 1 cannot be at (0,6); reason: discovered the number 1 at the same row at position (0,0); possiblities left: [6].
+528: Number 1 cannot be at (0,7); reason: discovered the number 1 at the same row at position (0,0); possiblities left: [9].
+529: Number 1 cannot be at (0,8); reason: discovered the number 1 at the same row at position (0,0); possiblities left: [8].
+530: Number 1 cannot be at (6,0); reason: discovered the number 1 at the same column at position (0,0); possiblities left: [3].
+531: Number 1 cannot be at (7,0); reason: discovered the number 1 at the same column at position (0,0); possiblities left: [9].
+532: Number 1 cannot be at (8,0); reason: discovered the number 1 at the same column at position (0,0); possiblities left: [5].
+533: Number 9 cannot be at (1,1); reason: discovered the number 9 at the same row at position (1,2); possiblities left: [3].
+534: Number 9 cannot be at (1,3); reason: discovered the number 9 at the same row at position (1,2); possiblities left: [6].
+535: Number 9 cannot be at (1,6); reason: discovered the number 9 at the same row at position (1,2); possiblities left: [1].
+536: Number 9 cannot be at (2,2); reason: discovered the number 9 at the same column at position (1,2); possiblities left: [2].
+537: Discovered number 2 at position (2,2); reason: it is the last possibility for the cell; discoveries: 33.
+538: Number 9 cannot be at (4,2); reason: discovered the number 9 at the same column at position (1,2); possiblities left: [8].
+539: Number 9 cannot be at (0,1); reason: discovered the number 9 at the same quadrant at position (1,2); possiblities left: [4].
+540: Number 9 cannot be at (2,0); reason: discovered the number 9 at the same quadrant at position (1,2); possiblities left: [6].
+541: Number 2 cannot be at (2,0); reason: discovered number 6 in its place; possiblities left: [6].
+542: Number 3 cannot be at (2,0); reason: discovered number 6 in its place; possiblities left: [6].
+543: Discovered number 3 at position (2,8); reason: it is the last possibility for the row; discoveries: 34.
+544: Discovered number 3 at position (1,1); reason: it is the last possibility for the quadrant; discoveries: 35.
+545: Number 6 cannot be at (2,3); reason: discovered the number 6 at the same row at position (2,0); possiblities left: [9].
+546: Number 6 cannot be at (2,5); reason: discovered the number 6 at the same row at position (2,0); possiblities left: [8].
+547: Number 6 cannot be at (2,7); reason: discovered the number 6 at the same row at position (2,0); possiblities left: [4].
+548: Number 2 cannot be at (2,5); reason: discovered the number 2 at the same row at position (2,2); possiblities left: [8].
+549: Number 2 cannot be at (4,2); reason: discovered the number 2 at the same column at position (2,2); possiblities left: [8].
+550: Discovered number 8 at position (4,2); reason: it is the last possibility for the cell; discoveries: 36.
+551: Number 2 cannot be at (8,2); reason: discovered the number 2 at the same column at position (2,2); possiblities left: [1].
+552: Number 2 cannot be at (0,1); reason: discovered the number 2 at the same quadrant at position (2,2); possiblities left: [4].
+553: Discovered number 4 at position (0,1); reason: it is the last possibility for the cell; discoveries: 37.
+554: Number 4 cannot be at (2,8); reason: discovered number 3 in its place; possiblities left: [3].
+555: Number 8 cannot be at (2,8); reason: discovered number 3 in its place; possiblities left: [3].
+556: Number 3 cannot be at (1,8); reason: discovered the number 3 at the same column at position (2,8); possiblities left: [7].
+557: Number 8 cannot be at (4,3); reason: discovered the number 8 at the same row at position (4,2); possiblities left: [4].
+558: Number 8 cannot be at (8,2); reason: discovered the number 8 at the same column at position (4,2); possiblities left: [1].
+559: Number 8 cannot be at (3,1); reason: discovered the number 8 at the same quadrant at position (4,2); possiblities left: [9].
+560: Number 1 cannot be at (8,3); reason: discovered the number 1 at the same row at position (8,2); possiblities left: [8].
+561: Number 1 cannot be at (8,7); reason: discovered the number 1 at the same row at position (8,2); possiblities left: [6].
+562: Number 1 cannot be at (8,8); reason: discovered the number 1 at the same row at position (8,2); possiblities left: [4].
+563: Number 3 cannot be at (8,1); reason: column 0 definitely has this number in this quadrant; possiblities left: [2].
+564: Number 8 cannot be at (0,4); reason: row 2 definitely has this number in this quadrant; possiblities left: [2].
+565: Number 8 cannot be at (0,5); reason: row 2 definitely has this number in this quadrant; possiblities left: [7].
+566: Number 4 cannot be at (0,4); reason: discovered the number 4 at the same row at position (0,1); possiblities left: [2].
+567: Number 4 cannot be at (0,5); reason: discovered the number 4 at the same row at position (0,1); possiblities left: [7].
+568: Number 4 cannot be at (0,6); reason: discovered the number 4 at the same row at position (0,1); possiblities left: [6].
+569: Number 4 cannot be at (0,7); reason: discovered the number 4 at the same row at position (0,1); possiblities left: [9].
+570: Number 4 cannot be at (0,8); reason: discovered the number 4 at the same row at position (0,1); possiblities left: [8].
+571: Number 4 cannot be at (1,1); reason: discovered the number 4 at the same column at position (0,1); possiblities left: [3].
+572: Number 7 cannot be at (0,8); reason: failed guess with reason: 2 possibilities at cell; discoveries: 38; possiblities left: [8].
+573: Discovered number 8 at position (0,8); reason: it is the last possibility for the cell; discoveries: 38.
+574: Number 8 cannot be at (0,6); reason: discovered the number 8 at the same row at position (0,8); possiblities left: [6].
+575: Number 8 cannot be at (7,8); reason: discovered the number 8 at the same column at position (0,8); possiblities left: [5].
+576: Number 8 cannot be at (8,8); reason: discovered the number 8 at the same column at position (0,8); possiblities left: [4].
+577: Discovered number 6 at position (0,6); reason: guess with reason: 2 possibilities at cell; discoveries: 39.
+578: Number 9 cannot be at (0,6); reason: discovered number 6 in its place; possiblities left: [6].
+579: Number 6 cannot be at (0,4); reason: discovered the number 6 at the same row at position (0,6); possiblities left: [2].
+580: Number 6 cannot be at (0,5); reason: discovered the number 6 at the same row at position (0,6); possiblities left: [7].
+581: Number 6 cannot be at (0,7); reason: discovered the number 6 at the same row at position (0,6); possiblities left: [9].
+582: Discovered number 6 at position (8,7); reason: it is the last possibility for the column; discoveries: 40.
+583: Number 6 cannot be at (1,6); reason: discovered the number 6 at the same column at position (0,6); possiblities left: [1].
+584: Number 6 cannot be at (7,6); reason: discovered the number 6 at the same column at position (0,6); possiblities left: [2].
+585: Number 4 cannot be at (8,7); reason: discovered number 6 in its place; possiblities left: [6].
+586: Number 5 cannot be at (8,7); reason: discovered number 6 in its place; possiblities left: [6].
+587: Discovered number 5 at position (4,7); reason: it is the last possibility for the column; discoveries: 41.
+588: Number 6 cannot be at (8,3); reason: discovered the number 6 at the same row at position (8,7); possiblities left: [8].
+589: Number 6 cannot be at (8,4); reason: discovered the number 6 at the same row at position (8,7); possiblities left: [3].
+590: Number 9 cannot be at (3,7); reason: column 6 definitely has this number in this quadrant; possiblities left: [7].
+591: Number 9 cannot be at (4,7); reason: column 6 definitely has this number in this quadrant; possiblities left: [5].
+592: Number 5 cannot be at (5,8); reason: column 7 definitely has this number in this quadrant; possiblities left: [1].
+593: Discovered number 5 at position (5,1); reason: it is the last possibility for the row; discoveries: 42.
+594: Number 4 cannot be at (4,7); reason: discovered number 5 in its place; possiblities left: [5].
+595: Number 5 cannot be at (4,0); reason: discovered the number 5 at the same row at position (4,7); possiblities left: [2].
+596: Number 9 cannot be at (5,1); reason: discovered number 5 in its place; possiblities left: [5].
+597: Number 5 cannot be at (7,1); reason: discovered the number 5 at the same column at position (5,1); possiblities left: [8].
+598: Number 5 cannot be at (8,1); reason: discovered the number 5 at the same column at position (5,1); possiblities left: [2].
+599: Number 4 cannot be at (1,3); reason: hidden combination along column 3 of numbers [6 7] at indexes [1 7] found at cell; possiblities left: [6].
+600: Number 1 cannot be at (7,3); reason: hidden combination along column 3 of numbers [6 7] at indexes [1 7] found at cell; possiblities left: [7].
+601: Discovered number 1 at position (3,3); reason: it is the last possibility for the column; discoveries: 43.
+602: Number 8 cannot be at (7,3); reason: hidden combination along column 3 of numbers [6 7] at indexes [1 7] found at cell; possiblities left: [7].
+603: Number 8 cannot be at (3,3); reason: discovered number 1 in its place; possiblities left: [1].
+604: Discovered number 8 at position (3,4); reason: it is the last possibility for the row; discoveries: 44.
+605: Number 9 cannot be at (3,3); reason: discovered number 1 in its place; possiblities left: [1].
+606: Number 1 cannot be at (3,7); reason: discovered the number 1 at the same row at position (3,3); possiblities left: [7].
+607: Discovered number 1 at position (6,7); reason: it is the last possibility for the column; discoveries: 45.
+608: Discovered number 7 at position (3,7); reason: it is the last possibility for the cell; discoveries: 46.
+609: Number 1 cannot be at (3,8); reason: discovered the number 1 at the same row at position (3,3); possiblities left: [2].
+610: Number 1 cannot be at (5,5); reason: discovered the number 1 at the same quadrant at position (3,3); possiblities left: [6].
+611: Number 9 cannot be at (3,4); reason: discovered number 8 in its place; possiblities left: [8].
+612: Discovered number 9 at position (3,1); reason: it is the last possibility for the row; discoveries: 47.
+613: Number 8 cannot be at (6,4); reason: discovered the number 8 at the same column at position (3,4); possiblities left: [4].
+614: Number 8 cannot be at (7,4); reason: discovered the number 8 at the same column at position (3,4); possiblities left: [6].
+615: Number 8 cannot be at (8,4); reason: discovered the number 8 at the same column at position (3,4); possiblities left: [3].
+616: Number 7 cannot be at (3,8); reason: discovered the number 7 at the same row at position (3,7); possiblities left: [2].
+617: Discovered number 7 at position (1,8); reason: it is the last possibility for the column; discoveries: 48.
+618: Discovered number 2 at position (3,8); reason: it is the last possibility for the cell; discoveries: 49.
+619: Number 7 cannot be at (0,7); reason: discovered the number 7 at the same column at position (3,7); possiblities left: [9].
+620: Discovered number 7 at position (0,5); reason: it is the last possibility for the row; discoveries: 50.
+621: Discovered number 9 at position (0,7); reason: it is the last possibility for the cell; discoveries: 51.
+622: Number 2 cannot be at (3,1); reason: discovered the number 2 at the same row at position (3,8); possiblities left: [9].
+623: Discovered number 2 at position (4,0); reason: it is the last possibility for the quadrant; discoveries: 52.
+624: Number 2 cannot be at (7,8); reason: discovered the number 2 at the same column at position (3,8); possiblities left: [5].
+625: Number 2 cannot be at (8,8); reason: discovered the number 2 at the same column at position (3,8); possiblities left: [4].
+626: Number 2 cannot be at (4,6); reason: discovered the number 2 at the same quadrant at position (3,8); possiblities left: [9].
+627: Number 9 cannot be at (4,0); reason: discovered number 2 in its place; possiblities left: [2].
+628: Discovered number 9 at position (7,0); reason: it is the last possibility for the column; discoveries: 53.
+629: Number 2 cannot be at (6,0); reason: discovered the number 2 at the same column at position (4,0); possiblities left: [3].
+630: Discovered number 3 at position (6,0); reason: it is the last possibility for the cell; discoveries: 54.
+631: Number 2 cannot be at (7,0); reason: discovered the number 2 at the same column at position (4,0); possiblities left: [9].
+632: Number 2 cannot be at (8,0); reason: discovered the number 2 at the same column at position (4,0); possiblities left: [5].
+633: Number 3 cannot be at (6,4); reason: discovered the number 3 at the same row at position (6,0); possiblities left: [4].
+634: Discovered number 3 at position (8,4); reason: it is the last possibility for the column; discoveries: 55.
+635: Number 3 cannot be at (8,0); reason: discovered the number 3 at the same column at position (6,0); possiblities left: [5].
+636: Discovered number 5 at position (8,0); reason: it is the last possibility for the cell; discoveries: 56.
+637: Number 4 cannot be at (6,7); reason: discovered number 1 in its place; possiblities left: [1].
+638: Discovered number 4 at position (2,7); reason: it is the last possibility for the column; discoveries: 57.
+639: Number 1 cannot be at (6,5); reason: discovered the number 1 at the same row at position (6,7); possiblities left: [2].
+640: Discovered number 1 at position (7,5); reason: it is the last possibility for the column; discoveries: 58.
+641: Number 1 cannot be at (6,6); reason: discovered the number 1 at the same row at position (6,7); possiblities left: [8].
+642: Number 1 cannot be at (7,6); reason: discovered the number 1 at the same quadrant at position (6,7); possiblities left: [2].
+643: Number 1 cannot be at (7,8); reason: discovered the number 1 at the same quadrant at position (6,7); possiblities left: [5].
+644: Discovered number 5 at position (7,8); reason: it is the last possibility for the cell; discoveries: 59.
+645: Number 5 cannot be at (7,0); reason: discovered number 9 in its place; possiblities left: [9].
+646: Number 9 cannot be at (7,1); reason: discovered the number 9 at the same row at position (7,0); possiblities left: [8].
+647: Number 2 cannot be at (7,5); reason: discovered number 1 in its place; possiblities left: [1].
+648: Number 6 cannot be at (7,5); reason: discovered number 1 in its place; possiblities left: [1].
+649: Number 7 cannot be at (7,5); reason: discovered number 1 in its place; possiblities left: [1].
+650: Discovered number 7 at position (7,3); reason: it is the last possibility for the row; discoveries: 60.
+651: Number 8 cannot be at (7,5); reason: discovered number 1 in its place; possiblities left: [1].
+652: Number 5 cannot be at (8,8); reason: discovered the number 5 at the same column at position (7,8); possiblities left: [4].
+653: Discovered number 4 at position (8,8); reason: it is the last possibility for the cell; discoveries: 61.
+654: Number 2 cannot be at (8,4); reason: discovered number 3 in its place; possiblities left: [3].
+655: Discovered number 2 at position (8,1); reason: it is the last possibility for the row; discoveries: 62.
+656: Number 4 cannot be at (8,4); reason: discovered number 3 in its place; possiblities left: [3].
+657: Number 4 cannot be at (8,3); reason: discovered the number 4 at the same row at position (8,8); possiblities left: [8].
+658: Discovered number 8 at position (8,3); reason: it is the last possibility for the cell; discoveries: 63.
+659: Number 4 cannot be at (1,8); reason: discovered the number 4 at the same column at position (8,8); possiblities left: [7].
+660: Number 4 cannot be at (5,8); reason: discovered the number 4 at the same column at position (8,8); possiblities left: [1].
+661: Discovered number 1 at position (5,8); reason: it is the last possibility for the cell; discoveries: 64.
+662: Number 4 cannot be at (6,6); reason: discovered the number 4 at the same quadrant at position (8,8); possiblities left: [8].
+663: Number 7 cannot be at (1,3); reason: row 0 definitely has this number in this quadrant; possiblities left: [6].
+664: Discovered number 6 at position (1,3); reason: it is the last possibility for the cell; discoveries: 65.
+665: Number 7 cannot be at (1,5); reason: row 0 definitely has this number in this quadrant; possiblities left: [4].
+666: Number 4 cannot be at (1,6); reason: column 7 definitely has this number in this quadrant; possiblities left: [1].
+667: Discovered number 4 at position (1,5); reason: it is the last possibility for the row; discoveries: 66.
+668: Discovered number 1 at position (1,6); reason: it is the last possibility for the cell; discoveries: 67.
+669: Number 2 cannot be at (7,1); reason: row 8 definitely has this number in this quadrant; possiblities left: [8].
+670: Discovered number 8 at position (7,1); reason: it is the last possibility for the cell; discoveries: 68.
+671: Number 2 cannot be at (0,5); reason: discovered number 7 in its place; possiblities left: [7].
+672: Discovered number 2 at position (0,4); reason: it is the last possibility for the row; discoveries: 69.
+673: Discovered number 2 at position (6,5); reason: it is the last possibility for the column; discoveries: 70.
+674: Number 9 cannot be at (0,4); reason: discovered the number 9 at the same row at position (0,7); possiblities left: [2].
+675: Discovered number 9 at position (5,4); reason: it is the last possibility for the column; discoveries: 71.
+676: Discovered number 9 at position (2,3); reason: it is the last possibility for the quadrant; discoveries: 72.
+677: Number 9 cannot be at (2,7); reason: discovered the number 9 at the same column at position (0,7); possiblities left: [4].
+678: Number 6 cannot be at (1,5); reason: discovered the number 6 at the same row at position (1,3); possiblities left: [4].
+679: Discovered number 6 at position (5,5); reason: it is the last possibility for the column; discoveries: 73.
+680: Number 6 cannot be at (7,3); reason: discovered the number 6 at the same column at position (1,3); possiblities left: [7].
+681: Discovered number 6 at position (7,4); reason: it is the last possibility for the row; discoveries: 74.
+682: Number 4 cannot be at (2,5); reason: discovered the number 4 at the same column at position (1,5); possiblities left: [8].
+683: Discovered number 8 at position (2,5); reason: it is the last possibility for the cell; discoveries: 75.
+684: Number 4 cannot be at (5,5); reason: discovered the number 4 at the same column at position (1,5); possiblities left: [6].
+685: Number 4 cannot be at (6,5); reason: discovered the number 4 at the same column at position (1,5); possiblities left: [2].
+686: Discovered number 4 at position (6,4); reason: it is the last possibility for the row; discoveries: 76.
+687: Number 4 cannot be at (2,3); reason: discovered the number 4 at the same quadrant at position (1,5); possiblities left: [9].
+688: Discovered number 4 at position (4,3); reason: it is the last possibility for the column; discoveries: 77.
+689: Number 1 cannot be at (1,8); reason: discovered the number 1 at the same row at position (1,6); possiblities left: [7].
+690: Number 1 cannot be at (5,6); reason: discovered the number 1 at the same column at position (1,6); possiblities left: [4].
+691: Number 8 cannot be at (2,3); reason: discovered number 9 in its place; possiblities left: [9].
+692: Number 9 cannot be at (4,3); reason: discovered the number 9 at the same column at position (2,3); possiblities left: [4].
+693: Discovered number 9 at position (4,6); reason: it is the last possibility for the row; discoveries: 78.
+694: Number 8 cannot be at (6,5); reason: discovered the number 8 at the same column at position (2,5); possiblities left: [2].
+695: Discovered number 8 at position (6,6); reason: it is the last possibility for the row; discoveries: 79.
+696: Number 4 cannot be at (4,6); reason: discovered the number 4 at the same row at position (4,3); possiblities left: [9].
+697: Discovered number 4 at position (5,6); reason: it is the last possibility for the column; discoveries: 80.
+698: Number 4 cannot be at (5,4); reason: discovered the number 4 at the same quadrant at position (4,3); possiblities left: [9].
+699: Number 9 cannot be at (5,6); reason: discovered the number 9 at the same column at position (4,6); possiblities left: [4].
+700: Number 6 cannot be at (5,4); reason: discovered number 9 in its place; possiblities left: [9].
+701: Number 2 cannot be at (6,4); reason: discovered number 4 in its place; possiblities left: [4].
+702: Number 2 cannot be at (6,6); reason: discovered the number 2 at the same row at position (6,5); possiblities left: [8].
+703: Discovered number 2 at position (7,6); reason: it is the last possibility for the column; discoveries: 81.
+704: Number 2 cannot be at (7,4); reason: discovered the number 2 at the same quadrant at position (6,5); possiblities left: [6].
+705: Number 8 cannot be at (7,6); reason: discovered the number 8 at the same column at position (6,6); possiblities left: [2].
+706: Number 8 cannot be at (8,1); reason: discovered the number 8 at the same column at position (7,1); possiblities left: [2].
+3 3
+1 4 5 3 2 7 6 9 8
+8 3 9 6 5 4 1 2 7
+6 7 2 9 1 8 5 4 3
+4 9 6 1 8 5 3 7 2
+2 1 8 4 7 3 9 5 6
+7 5 3 2 9 6 4 8 1
+3 6 7 5 4 2 8 1 9
+9 8 4 7 6 1 2 3 5
+5 2 1 8 3 9 7 6 4
